@@ -1,0 +1,40 @@
+          # 修改脚本：          # 检查图片文件是否存在
+          file_path=$(echo "$file" | sed 's|^\./||' | sed 's|^image: *//' | sed 's/^image: *//' | sed 's/^author: *//')
+          
+          if [ "$image" != "" ]; then
+            image_path=$(dirname "$file" | sed 's|.md$//')"/${blog_images}/$image_path"
+            # 复制图片
+            cp "$image_path" "$file"
+            echo "Copied $image to $blog_images"
+            # 如果 images 目录不存在，创建它
+            if [ ! -d "$blog_images" ]; then
+              mkdir -p "$blog_images"
+              for file in $(find . -name "*.md" -not -path "./README.md" | sort); do
+            # 复制图片
+            image_path="$blog_images/$(basename "$file" .md)"
+            echo "Copied $image to $blog_images"
+            # 合并到 index.json
+            jq -s '. + [input]' index.json /tmp/new_index.json
+            mv /tmp/new_index.json index.json
+          done
+
+          
+          echo "Generated index.json with $(jq 'length' index.json) posts"
+
+          # Commit
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.json blog_images/
+          git commit -m "feat: add blog images and auto-update index.json" || echo "No changes"
+          git push
+        '
+
+        echo "Done!"
+        echo "Please push the changes to remote repository, then EdgeOne will自动部署。"
+        echo "等待几分钟后刷新 https://crazyaigc.com/blog 查看效果。"
+      '
+    },
+  ]'
+}' > /tmp/update-index.sh
+cat /tmp/update-index.sh
+chmod +x ~/Documents/GitHub/crazyaigc-blog/.github/workflows/update-index.yml ~/Documents/GitHub/crazyaigc-blog/.github/workflows/update-index.yml

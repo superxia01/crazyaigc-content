@@ -1,0 +1,67 @@
+[
+  {
+    "slug": "insights/2026-04-05-ai-adoption-divide",
+    "title": "2026 年 AI 落地的分水岭：会用和不会用的团队，差距已拉到 10 倍",
+    "description": "2026 年企业 AI 应用出现真正分化，领先团队效率碾压落后者，关键差距不在工具而在系统化工作流。",
+    "date": "2026-04-05",
+    "category": "insights",
+    "tags": ["AI落地", "行业趋势", "企业AI"],
+    "author": "CRAZYAIGC",
+    "image": "https://raw.githubusercontent.com/superxia01/crazyaigc-blog/main/images/ai-divide-2026.svg",
+    "featured": true
+  },
+  {
+    "slug": "news/2026-04-05-wenzhou-openclaw-course",
+    "title": "温州首期 OpenClaw 跨境电商 AI 实操课圆满举办",
+    "description": "CRAZYAIGC 学院联合孚遥跨境、翀宇跨综服平台在温州成功举办首期 OpenClaw 跨境电商 AI 实操课。",
+    "date": "2026-03-20",
+    "category": "news",
+    "tags": ["OpenClaw", "跨境电商", "AI实操课"],
+    "author": "CRAZYAIGC",
+    "image": "https://raw.githubusercontent.com/superxia01/crazyaigc-blog/main/images/wenzhou-training.svg",
+    "featured": true
+  },
+  {
+    "slug": "news/2026-03-28-website-relaunch",
+    "title": "CRAZYAIGC 网站全新改版上线",
+    "description": "我们很高兴宣布 CRAZYAIGC 官方网站完成全面改版，新增博客、AI 培训等板块。",
+    "date": "2026-03-28",
+    "category": "news",
+    "tags": ["公司动态", "网站改版"],
+    "author": "CRAZYAIGC",
+    "image": "https://raw.githubusercontent.com/superxia01/crazyaigc-blog/main/images/website-relaunch.svg"
+  },
+  {
+    "slug": "training/2026-04-05-why-ai-training-fails",
+    "title": "AI 培训不是请人来讲课——为什么 90% 的企业 AI 培训都失败了",
+    "description": "90% 的企业 AI 培训流于形式，员工听完不会用。真正有效的培训需要岗位定制、场景实操和持续陪跑。",
+    "date": "2026-04-05",
+    "category": "training",
+    "tags": ["AI培训", "企业转型"],
+    "author": "CRAZYAIGC",
+    "image": "https://raw.githubusercontent.com/superxia01/crazyaigc-blog/main/images/ai-training-fails.svg",
+    "featured": true
+  },
+  {
+    "slug": "training/2026-04-01-ai-enterprise-training-trends",
+    "title": "为什么企业需要 AI 培训？2026 年企业 AI 转型指南",
+    "description": "深入分析企业 AI 培训的必要性和价值，了解如何通过系统化培训让团队快速掌握 AI 工具。",
+    "date": "2026-04-01",
+    "category": "training",
+    "tags": ["AI培训", "企业转型"],
+    "author": "CRAZYAIGC",
+    "image": "https://raw.githubusercontent.com/superxia01/crazyaigc-blog/main/images/enterprise-ai-training.svg",
+    "featured": true
+  },
+  {
+    "slug": "training/2026-03-15-prompt-engineering-for-enterprise",
+    "title": "提示词工程：企业员工必备的 AI 技能",
+    "description": "掌握提示词工程，让 AI 工具发挥最大价值。本文介绍提示词编写的核心原则和实用技巧。",
+    "date": "2026-03-15",
+    "category": "training",
+    "tags": ["提示词工程", "AI技能"],
+    "author": "CRAZYAIGC",
+    "image": "https://raw.githubusercontent.com/superxia01/crazyaigc-blog/main/images/prompt-engineering.svg",
+    "featured": true
+  }
+]
