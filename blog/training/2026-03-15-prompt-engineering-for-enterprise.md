@@ -5,6 +5,7 @@ date: "2026-03-15"
 category: "training"
 tags: ["提示词工程", "AI技能", "企业培训", "ChatGPT"]
 author: "CRAZYAIGC"
+image: "https://raw.githubusercontent.com/superxia01/crazyaigc-content/main/blog/images/prompt-engineering.svg"
 featured: true
 ---
 

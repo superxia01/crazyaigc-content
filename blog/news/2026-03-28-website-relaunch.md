@@ -5,6 +5,7 @@ date: "2026-03-28"
 category: "news"
 tags: ["公司动态", "网站改版"]
 author: "CRAZYAIGC"
+image: "https://raw.githubusercontent.com/superxia01/crazyaigc-content/main/blog/images/website-relaunch.svg"
 ---
 
 # CRAZYAIGC 网站全新改版上线

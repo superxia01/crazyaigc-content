@@ -5,7 +5,7 @@ date: "2026-04-05"
 category: "insights"
 tags: ["AI落地", "行业趋势", "企业AI", "效率差距"]
 author: "CRAZYAIGC"
-image: "/blog/ai-divide-2026.jpg"
+image: "https://raw.githubusercontent.com/superxia01/crazyaigc-content/main/blog/images/ai-divide-2026.svg"
 featured: true
 ---
 

@@ -5,6 +5,7 @@ date: "2026-04-01"
 category: "training"
 tags: ["AI培训", "企业转型", "效率提升"]
 author: "CRAZYAIGC"
+image: "https://raw.githubusercontent.com/superxia01/crazyaigc-content/main/blog/images/enterprise-ai-training.svg"
 featured: true
 ---
 

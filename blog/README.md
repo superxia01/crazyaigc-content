@@ -22,7 +22,7 @@ date: "2026-04-04"
 category: "news" | "training" | "insights"
 tags: ["标签1", "标签2"]
 author: "CRAZYAIGC"
-image: "/blog/cover.jpg"  # 可选
+image: "https://raw.githubusercontent.com/superxia01/crazyaigc-content/main/blog/images/cover.svg"  # 可选
 featured: true            # 可选，特色文章
 ---
 

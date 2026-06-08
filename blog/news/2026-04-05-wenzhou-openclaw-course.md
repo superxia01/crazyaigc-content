@@ -5,6 +5,7 @@ date: "2026-03-20"
 category: "news"
 tags: ["OpenClaw", "跨境电商", "AI实操课", "温州", "线下培训"]
 author: "CRAZYAIGC"
+image: "https://raw.githubusercontent.com/superxia01/crazyaigc-content/main/blog/images/wenzhou-training.svg"
 featured: true
 ---
 

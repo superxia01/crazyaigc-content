@@ -5,6 +5,7 @@ date: "2026-04-05"
 category: "training"
 tags: ["AI培训", "企业转型", "落地效果", "CRAZYAIGC"]
 author: "CRAZYAIGC"
+image: "https://raw.githubusercontent.com/superxia01/crazyaigc-content/main/blog/images/ai-training-fails.svg"
 featured: true
 ---
 
