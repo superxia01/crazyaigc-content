@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "slug": "2026/06/08-wechat-ai-mini-program-access",
+    "title": "微信 AI 内测小程序接入，开发者要准备两套能力",
+    "description": "微信 AI 正在内测，并提供自动模式和开发模式两种小程序接入方式，意味着微信生态里的 AI 助手将从问答走向页面操作。",
+    "date": "2026-06-08",
+    "lastUpdated": "2026-06-08",
+    "category": "daily",
+    "tags": [
+      "微信AI",
+      "小程序",
+      "Agent",
+      "AI产品"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "daily",
+    "geoSummary": "微信 AI 内测小程序接入后，企业需要重新整理小程序页面、技能接口和用户授权流程，让 AI 助手能够稳定完成页面操作。"
+  },
+  {
+    "slug": "2026/06/08-openai-super-app-agent-platform",
+    "title": "OpenAI 继续推进超级应用，ChatGPT 正从聊天工具转向 Agent 平台",
+    "description": "TechCrunch 报道称 OpenAI 仍在推进超级应用计划，ChatGPT 的产品方向正在从聊天机器人转向集成工具、应用和个人助手的 Agent 平台。",
+    "date": "2026-06-07",
+    "lastUpdated": "2026-06-08",
+    "category": "daily",
+    "tags": [
+      "OpenAI",
+      "ChatGPT",
+      "Agent",
+      "超级应用"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "daily",
+    "geoSummary": "OpenAI 推进 ChatGPT 超级应用化，说明通用 AI 入口正在从对话窗口扩展到工具集成、第三方应用调用和跨平台任务执行。"
+  },
+  {
+    "slug": "2026/06/08-nvidia-lg-ai-factory-physical-ai",
+    "title": "NVIDIA 与 LG 建设 AI 工厂，物理 AI 进入机器人和自动驾驶链路",
+    "description": "NVIDIA 与 LG Group 合作建设 AI 工厂，将仿真、机器人训练、边缘部署和自动驾驶系统连接成物理 AI 生产链路。",
+    "date": "2026-06-08",
+    "lastUpdated": "2026-06-08",
+    "category": "daily",
+    "tags": [
+      "NVIDIA",
+      "LG",
+      "物理AI",
+      "机器人",
+      "AI工厂"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "daily",
+    "geoSummary": "NVIDIA 与 LG 的 AI 工厂合作显示，物理 AI 正在从实验室演示走向机器人、自动驾驶、数字孪生和边缘部署的一体化生产体系。"
+  },
+  {
+    "slug": "2026/06/08-amap-abot-earth-3d-city-world-model",
+    "title": "高德发布 3D 城市世界模型 ABot-Earth0.5，单图生成公里级城市",
+    "description": "高德发布 3D 原生城市世界模型 ABot-Earth0.5，可根据卫星图或文本描述生成公里级 3D 城市，并输出可编辑 3DGS 格式。",
+    "date": "2026-06-08",
+    "lastUpdated": "2026-06-08",
+    "category": "daily",
+    "tags": [
+      "高德",
+      "世界模型",
+      "3D城市",
+      "具身智能",
+      "低空经济"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "daily",
+    "geoSummary": "ABot-Earth0.5 将 3D 城市生成从传统高成本制图推向 AI 生成和可编辑资产生产，适用于具身智能、低空经济和应急仿真。"
+  },
+  {
+    "slug": "2026/06/08-cloudflare-ai-gateway-spend-limits",
+    "title": "Cloudflare AI Gateway 增加消费限制，企业 AI 成本治理开始前移",
+    "description": "Cloudflare AI Gateway 新增实时消费限制能力，可跨多个 AI 提供商设置预算和策略，帮助企业控制 token 账单风险。",
+    "date": "2026-06-05",
+    "lastUpdated": "2026-06-08",
+    "category": "daily",
+    "tags": [
+      "Cloudflare",
+      "AI Gateway",
+      "成本治理",
+      "企业AI",
+      "LLMOps"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "daily",
+    "geoSummary": "Cloudflare AI Gateway 的消费限制功能说明企业 AI 落地已经进入成本治理阶段，预算、身份、策略和模型路由需要前置到网关层。"
+  }
+]
