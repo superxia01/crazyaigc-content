@@ -1,151 +1,11 @@
 [
   {
-    "path": "introduction/quick-start/ai-basics",
-    "title": "AI 基础"
-  },
-  {
-    "path": "introduction/quick-start/getting-started",
-    "title": "快速开始"
-  },
-  {
-    "path": "introduction/quick-start/setup-guide",
-    "title": "设置指南"
-  },
-  {
-    "path": "foundation/a1-basics/capability-boundaries",
-    "title": "AI 能力边界洞察：理解 AI 模型的能力边界，识别可落地场景与暂时无法实现的盲区"
-  },
-  {
-    "path": "foundation/a1-basics/compliance-copyright",
-    "title": "合规与版权避坑：AI 生成内容的商业版权、隐私泄露防护"
-  },
-  {
-    "path": "foundation/a1-basics/roi-calculation",
-    "title": "各岗位降本增效测算模型：量化 AI 能省多少时间、人力成本"
-  },
-  {
-    "path": "foundation/a1-basics/scenario-screening",
-    "title": "场景筛选框架：AI 可行性评估与优先级排序方法"
-  },
-  {
-    "path": "foundation/a1-basics/tool-ecosystems",
-    "title": "主流工具阵营划分：通用大模型与专项工具的选择策略"
-  },
-  {
-    "path": "foundation/a1-basics/workflow-setup",
-    "title": "个人/团队 AI 工作流搭建：从需求提出到 AI 输出的完整实操"
-  },
-  {
-    "path": "foundation/a2-prompt/cot-techniques",
-    "title": "思维链提示技巧：让 AI 分步拆解复杂任务"
-  },
-  {
-    "path": "foundation/a2-prompt/few-shot-learning",
-    "title": "少样本学习高阶玩法：用 1-2 个例子让 AI 精准模仿风格"
-  },
-  {
-    "path": "foundation/a2-prompt/industry-prompts",
-    "title": "行业专属提示词模板：办公/销售/设计/编程可直接套用"
-  },
-  {
-    "path": "foundation/a2-prompt/precise-command",
-    "title": "精准指令句式：角色 + 任务 + 要求 + 输出格式的万能公式"
-  },
-  {
-    "path": "foundation/a2-prompt/prompt-optimization",
-    "title": "提示词优化与迭代：从答不好到一次达标的快速调整方法"
-  },
-  {
-    "path": "foundation/a2-prompt/scenario-adaptation",
-    "title": "不同场景提示词适配技巧：办公/销售/设计/编程差异化指令"
-  },
-  {
-    "path": "foundation/a2-prompt/structured-output",
-    "title": "结构化输出控制：精准输出表格、清单、JSON 等格式"
-  },
-  {
-    "path": "prompt-engineering/basics/advanced-techniques",
-    "title": "高级技巧"
-  },
-  {
-    "path": "prompt-engineering/basics/basic-prompts",
-    "title": "基础提示词"
-  },
-  {
     "path": "ai-tools/main-tools/chatgpt-guide",
     "title": "ChatGPT 指南"
   },
   {
-    "path": "productivity/b1-office/admin-hr-efficiency",
-    "title": "行政/人事效率化：快速撰写通知、制度，批量排版、改错"
-  },
-  {
-    "path": "productivity/b1-office/content-creation",
-    "title": "内容创作：公众号长文、小红书笔记、视频脚本"
-  },
-  {
-    "path": "productivity/b1-office/email-tasks",
-    "title": "邮件类：生成商务邮件、自动回复、跟进话术"
-  },
-  {
-    "path": "productivity/b1-office/finance-data",
-    "title": "财务与数据整理：AI 处理 Excel 公式、对账核对、生成报表"
-  },
-  {
-    "path": "productivity/b1-office/general-scenarios",
-    "title": "通用场景：会议录音、聊天记录一键转纪要、生成待办清单"
-  },
-  {
-    "path": "productivity/b1-office/office-tools",
-    "title": "主流办公 AI 工具：WPS AI、Office 365 Copilot、飞书 AI 适配与选择"
-  },
-  {
-    "path": "productivity/b1-office/report-presentation",
-    "title": "汇报与演示：写总结、周月报，搭建 PPT 大纲"
-  },
-  {
-    "path": "productivity/b2-sales/customer-analysis",
-    "title": "客户分析：从聊天记录中提炼需求、判断意向、精准跟进"
-  },
-  {
-    "path": "productivity/b2-sales/sales-scripts",
-    "title": "销售话术：开场白、产品介绍、逼单、回访、催款、安抚话术"
-  },
-  {
-    "path": "productivity/b2-sales/service-scripts",
-    "title": "客服话术：处理异议、投诉，生成标准化回复"
-  },
-  {
-    "path": "productivity/b2-sales/social-leads",
-    "title": "社媒获客：写私信、评论互动话术、批量回复提升效率"
-  },
-  {
-    "path": "productivity/b2-sales/trade-specific",
-    "title": "外贸专属：写外贸开发信、小语种邮件、实时翻译"
-  },
-  {
-    "path": "productivity/b3-analytics/data-interpretation",
-    "title": "数据解读：看懂核心业务数据、通俗化解读专业数据"
-  },
-  {
-    "path": "productivity/b3-analytics/data-processing",
-    "title": "数据处理：数据清洗、整理、对比、剔除无效信息"
-  },
-  {
-    "path": "productivity/b3-analytics/report-generation",
-    "title": "报告生成：自动生成数据分析报告、复盘总结、节省撰写时间"
-  },
-  {
-    "path": "productivity/b3-analytics/security-compliance",
-    "title": "安全合规：企业数据分析的脱敏与合规操作"
-  },
-  {
-    "path": "productivity/b3-analytics/trend-prediction",
-    "title": "趋势预测：做简单业务预测、趋势判断、辅助管理层决策"
-  },
-  {
-    "path": "productivity/b3-analytics/visualization",
-    "title": "可视化：生成图表让数据直观"
+    "path": "ai-tools/main-tools/codex-guide",
+    "title": "Codex 入门指南：把 AI 当成会执行任务的代码与文档助手"
   },
   {
     "path": "creative/c1-visual-basics/consistency",
@@ -228,46 +88,6 @@
     "title": "视觉包装：餐饮/快消品牌年轻化、国际化视觉升级"
   },
   {
-    "path": "social-media/s1-mechanism/account-positioning",
-    "title": "账号定位：差异化赛道筛选、人设商业模型建立、视觉体系规划"
-  },
-  {
-    "path": "social-media/s1-mechanism/ai-integration",
-    "title": "AI 工具整合：从 ChatGPT 到 Midjourney 的全套工具链搭建"
-  },
-  {
-    "path": "social-media/s1-mechanism/platform-mechanics",
-    "title": "平台机制：抖音、小红书、公众号算法逻辑（流量池、权重、分发机制）"
-  },
-  {
-    "path": "social-media/s1-mechanism/topic-matrix",
-    "title": "选题矩阵：热点追踪、选题库搭建、长视频/短图文内容组合"
-  },
-  {
-    "path": "social-media/s2-content/batch-efficiency",
-    "title": "批量提效：用 AI 批量改写文案、内容去重润色、适配多平台分发"
-  },
-  {
-    "path": "social-media/s2-content/full-production",
-    "title": "全案创作：用 AI 写公众号长文、小红书笔记、视频脚本"
-  },
-  {
-    "path": "social-media/s2-content/topic-strategy",
-    "title": "选题策略：热点追踪、选题库搭建、长视频/短图文的内容组合策略"
-  },
-  {
-    "path": "social-media/s3-monetization/ai-empowerment",
-    "title": "AI 赋能：用 AI 编写高转化引流话术、社媒私信互动模板"
-  },
-  {
-    "path": "social-media/s3-monetization/operation-loop",
-    "title": "运营闭环：橱子内容设置、评论区高情商维护、公域转私域导流 SOP"
-  },
-  {
-    "path": "social-media/s3-monetization/private-conversion",
-    "title": "私域转化：橱子设置、评论维护、公域转私域导流 SOP"
-  },
-  {
     "path": "cross-border/k1-market/ai-empowerment",
     "title": "AI 赋能：用 AI 自动生成高权重 Listing、批量产出符合海外审美的广告主图"
   },
@@ -312,40 +132,56 @@
     "title": "供应链管理：FBA/海外仓代发流程、成本控制与利润核算模型"
   },
   {
-    "path": "programming/p1-website/ai-empowerment",
-    "title": "AI 赋能：AI 辅助界面改版、样式调整、SEO 架构自动化优化"
+    "path": "foundation/a1-basics/capability-boundaries",
+    "title": "AI 能力边界洞察：理解 AI 模型的能力边界，识别可落地场景与暂时无法实现的盲区"
   },
   {
-    "path": "programming/p1-website/multi-platform",
-    "title": "多端适配：无需复杂代码实现多语言适配、多终端自适应布局"
+    "path": "foundation/a1-basics/compliance-copyright",
+    "title": "合规与版权避坑：AI 生成内容的商业版权、隐私泄露防护"
   },
   {
-    "path": "programming/p1-website/quick-website",
-    "title": "实战建站：用 AI 快速搭建企业官网、产品营销站、外贸独立站"
+    "path": "foundation/a1-basics/roi-calculation",
+    "title": "各岗位降本增效测算模型：量化 AI 能省多少时间、人力成本"
   },
   {
-    "path": "programming/p2-automation/ai-empowerment",
-    "title": "AI 赋能：零基础通过 AI 编写 Python 或常用脚本逻辑、AI 辅助进行代码重构"
+    "path": "foundation/a1-basics/scenario-screening",
+    "title": "场景筛选框架：AI 可行性评估与优先级排序方法"
   },
   {
-    "path": "programming/p2-automation/data-mining",
-    "title": "数据挖掘：用 AI 做简单数据爬虫、信息采集、快速获取行业数据与客户线索"
+    "path": "foundation/a1-basics/tool-ecosystems",
+    "title": "主流工具阵营划分：通用大模型与专项工具的选择策略"
   },
   {
-    "path": "programming/p2-automation/efficiency-tools",
-    "title": "提效利器：编写批量数据处理、重复操作自动化脚本"
+    "path": "foundation/a1-basics/workflow-setup",
+    "title": "个人/团队 AI 工作流搭建：从需求提出到 AI 输出的完整实操"
   },
   {
-    "path": "programming/p3-development/ai-empowerment",
-    "title": "AI 赋能：利用 AI + 低代码工具、快速搭建企业内部管理系统"
+    "path": "foundation/a2-prompt/cot-techniques",
+    "title": "思维链提示技巧：让 AI 分步拆解复杂任务"
   },
   {
-    "path": "programming/p3-development/dev-assistance",
-    "title": "开发辅助：辅助编程工具（GitHub Copilot 等）使用技巧、小程序/APP 核心功能辅助开发"
+    "path": "foundation/a2-prompt/few-shot-learning",
+    "title": "少样本学习高阶玩法：用 1-2 个例子让 AI 精准模仿风格"
   },
   {
-    "path": "programming/p3-development/system-logic",
-    "title": "系统逻辑：用 AI 解释复杂代码逻辑、查 Bug、优化后端业务流程"
+    "path": "foundation/a2-prompt/industry-prompts",
+    "title": "行业专属提示词模板：办公/销售/设计/编程可直接套用"
+  },
+  {
+    "path": "foundation/a2-prompt/precise-command",
+    "title": "精准指令句式：角色 + 任务 + 要求 + 输出格式的万能公式"
+  },
+  {
+    "path": "foundation/a2-prompt/prompt-optimization",
+    "title": "提示词优化与迭代：从答不好到一次达标的快速调整方法"
+  },
+  {
+    "path": "foundation/a2-prompt/scenario-adaptation",
+    "title": "不同场景提示词适配技巧：办公/销售/设计/编程差异化指令"
+  },
+  {
+    "path": "foundation/a2-prompt/structured-output",
+    "title": "结构化输出控制：精准输出表格、清单、JSON 等格式"
   },
   {
     "path": "governance/g1-strategy/core-logic",
@@ -370,6 +206,18 @@
   {
     "path": "governance/g1-strategy/training-system",
     "title": "培训体系：分层培训（全员基础/岗位专项）、制定培训计划与考核标准"
+  },
+  {
+    "path": "introduction/quick-start/ai-basics",
+    "title": "AI 基础"
+  },
+  {
+    "path": "introduction/quick-start/getting-started",
+    "title": "快速开始"
+  },
+  {
+    "path": "introduction/quick-start/setup-guide",
+    "title": "设置指南"
   },
   {
     "path": "monetization/m1-business/contract-standards",
@@ -418,42 +266,6 @@
   {
     "path": "monetization/m2-industry/service-training",
     "title": "服务/教培/礼品/医美：营销视频、教案题库生成、公文写作、会议纪要"
-  },
-  {
-    "path": "openclaw/getting-started/gateway-basics",
-    "title": "Gateway 基础"
-  },
-  {
-    "path": "openclaw/getting-started/installation",
-    "title": "安装与部署"
-  },
-  {
-    "path": "openclaw/getting-started/what-is-openclaw",
-    "title": "OpenClaw 是什么"
-  },
-  {
-    "path": "openclaw/channels/dingtalk",
-    "title": "钉钉接入"
-  },
-  {
-    "path": "openclaw/channels/feishu",
-    "title": "飞书接入"
-  },
-  {
-    "path": "openclaw/channels/international",
-    "title": "国际平台接入"
-  },
-  {
-    "path": "openclaw/channels/qq",
-    "title": "QQ 机器人接入"
-  },
-  {
-    "path": "openclaw/channels/wechat",
-    "title": "微信接入"
-  },
-  {
-    "path": "openclaw/channels/wecom",
-    "title": "企业微信接入"
   },
   {
     "path": "openclaw/advanced/memory",
@@ -508,6 +320,30 @@
     "title": "VPS + Docker 搭建"
   },
   {
+    "path": "openclaw/channels/dingtalk",
+    "title": "钉钉接入"
+  },
+  {
+    "path": "openclaw/channels/feishu",
+    "title": "飞书接入"
+  },
+  {
+    "path": "openclaw/channels/international",
+    "title": "国际平台接入"
+  },
+  {
+    "path": "openclaw/channels/qq",
+    "title": "QQ 机器人接入"
+  },
+  {
+    "path": "openclaw/channels/wechat",
+    "title": "微信接入"
+  },
+  {
+    "path": "openclaw/channels/wecom",
+    "title": "企业微信接入"
+  },
+  {
     "path": "openclaw/expert/community-cases",
     "title": "社区精选案例"
   },
@@ -524,11 +360,175 @@
     "title": "开发 Skill"
   },
   {
-    "path": "openclaw/config/config-guide",
-    "title": "配置文件详解"
+    "path": "openclaw/getting-started/gateway-basics",
+    "title": "Gateway 基础"
   },
   {
-    "path": "openclaw/config/persona",
-    "title": "打造 AI 人设"
+    "path": "openclaw/getting-started/installation",
+    "title": "安装与部署"
+  },
+  {
+    "path": "openclaw/getting-started/what-is-openclaw",
+    "title": "OpenClaw 是什么"
+  },
+  {
+    "path": "productivity/b1-office/admin-hr-efficiency",
+    "title": "行政/人事效率化：快速撰写通知、制度，批量排版、改错"
+  },
+  {
+    "path": "productivity/b1-office/content-creation",
+    "title": "内容创作：公众号长文、小红书笔记、视频脚本"
+  },
+  {
+    "path": "productivity/b1-office/email-tasks",
+    "title": "邮件类：生成商务邮件、自动回复、跟进话术"
+  },
+  {
+    "path": "productivity/b1-office/finance-data",
+    "title": "财务与数据整理：AI 处理 Excel 公式、对账核对、生成报表"
+  },
+  {
+    "path": "productivity/b1-office/general-scenarios",
+    "title": "通用场景：会议录音、聊天记录一键转纪要、生成待办清单"
+  },
+  {
+    "path": "productivity/b1-office/office-tools",
+    "title": "主流办公 AI 工具：WPS AI、Office 365 Copilot、飞书 AI 适配与选择"
+  },
+  {
+    "path": "productivity/b1-office/report-presentation",
+    "title": "汇报与演示：写总结、周月报，搭建 PPT 大纲"
+  },
+  {
+    "path": "productivity/b2-sales/customer-analysis",
+    "title": "客户分析：从聊天记录中提炼需求、判断意向、精准跟进"
+  },
+  {
+    "path": "productivity/b2-sales/sales-scripts",
+    "title": "销售话术：开场白、产品介绍、逼单、回访、催款、安抚话术"
+  },
+  {
+    "path": "productivity/b2-sales/service-scripts",
+    "title": "客服话术：处理异议、投诉，生成标准化回复"
+  },
+  {
+    "path": "productivity/b2-sales/social-leads",
+    "title": "社媒获客：写私信、评论互动话术、批量回复提升效率"
+  },
+  {
+    "path": "productivity/b2-sales/trade-specific",
+    "title": "外贸专属：写外贸开发信、小语种邮件、实时翻译"
+  },
+  {
+    "path": "productivity/b3-analytics/data-interpretation",
+    "title": "数据解读：看懂核心业务数据、通俗化解读专业数据"
+  },
+  {
+    "path": "productivity/b3-analytics/data-processing",
+    "title": "数据处理：数据清洗、整理、对比、剔除无效信息"
+  },
+  {
+    "path": "productivity/b3-analytics/report-generation",
+    "title": "报告生成：自动生成数据分析报告、复盘总结、节省撰写时间"
+  },
+  {
+    "path": "productivity/b3-analytics/security-compliance",
+    "title": "安全合规：企业数据分析的脱敏与合规操作"
+  },
+  {
+    "path": "productivity/b3-analytics/trend-prediction",
+    "title": "趋势预测：做简单业务预测、趋势判断、辅助管理层决策"
+  },
+  {
+    "path": "productivity/b3-analytics/visualization",
+    "title": "可视化：生成图表让数据直观"
+  },
+  {
+    "path": "programming/p1-website/ai-empowerment",
+    "title": "AI 赋能：AI 辅助界面改版、样式调整、SEO 架构自动化优化"
+  },
+  {
+    "path": "programming/p1-website/multi-platform",
+    "title": "多端适配：无需复杂代码实现多语言适配、多终端自适应布局"
+  },
+  {
+    "path": "programming/p1-website/quick-website",
+    "title": "实战建站：用 AI 快速搭建企业官网、产品营销站、外贸独立站"
+  },
+  {
+    "path": "programming/p2-automation/ai-empowerment",
+    "title": "AI 赋能：零基础通过 AI 编写 Python 或常用脚本逻辑、AI 辅助进行代码重构"
+  },
+  {
+    "path": "programming/p2-automation/data-mining",
+    "title": "数据挖掘：用 AI 做简单数据爬虫、信息采集、快速获取行业数据与客户线索"
+  },
+  {
+    "path": "programming/p2-automation/efficiency-tools",
+    "title": "提效利器：编写批量数据处理、重复操作自动化脚本"
+  },
+  {
+    "path": "programming/p3-development/ai-empowerment",
+    "title": "AI 赋能：利用 AI + 低代码工具、快速搭建企业内部管理系统"
+  },
+  {
+    "path": "programming/p3-development/codex-enterprise-workflow",
+    "title": "Codex 企业工作流：从需求到代码、测试和部署验证"
+  },
+  {
+    "path": "programming/p3-development/dev-assistance",
+    "title": "开发辅助：辅助编程工具（GitHub Copilot 等）使用技巧、小程序/APP 核心功能辅助开发"
+  },
+  {
+    "path": "programming/p3-development/system-logic",
+    "title": "系统逻辑：用 AI 解释复杂代码逻辑、查 Bug、优化后端业务流程"
+  },
+  {
+    "path": "prompt-engineering/basics/advanced-techniques",
+    "title": "高级技巧"
+  },
+  {
+    "path": "prompt-engineering/basics/basic-prompts",
+    "title": "基础提示词"
+  },
+  {
+    "path": "social-media/s1-mechanism/account-positioning",
+    "title": "账号定位：差异化赛道筛选、人设商业模型建立、视觉体系规划"
+  },
+  {
+    "path": "social-media/s1-mechanism/ai-integration",
+    "title": "AI 工具整合：从 ChatGPT 到 Midjourney 的全套工具链搭建"
+  },
+  {
+    "path": "social-media/s1-mechanism/platform-mechanics",
+    "title": "平台机制：抖音、小红书、公众号算法逻辑（流量池、权重、分发机制）"
+  },
+  {
+    "path": "social-media/s1-mechanism/topic-matrix",
+    "title": "选题矩阵：热点追踪、选题库搭建、长视频/短图文内容组合"
+  },
+  {
+    "path": "social-media/s2-content/batch-efficiency",
+    "title": "批量提效：用 AI 批量改写文案、内容去重润色、适配多平台分发"
+  },
+  {
+    "path": "social-media/s2-content/full-production",
+    "title": "全案创作：用 AI 写公众号长文、小红书笔记、视频脚本"
+  },
+  {
+    "path": "social-media/s2-content/topic-strategy",
+    "title": "选题策略：热点追踪、选题库搭建、长视频/短图文的内容组合策略"
+  },
+  {
+    "path": "social-media/s3-monetization/ai-empowerment",
+    "title": "AI 赋能：用 AI 编写高转化引流话术、社媒私信互动模板"
+  },
+  {
+    "path": "social-media/s3-monetization/operation-loop",
+    "title": "运营闭环：橱子内容设置、评论区高情商维护、公域转私域导流 SOP"
+  },
+  {
+    "path": "social-media/s3-monetization/private-conversion",
+    "title": "私域转化：橱子设置、评论维护、公域转私域导流 SOP"
   }
 ]

@@ -1,5 +1,61 @@
 [
   {
+    "slug": "insights/2026-06-18-how-to-choose-enterprise-ai-service-provider",
+    "title": "企业 AI 服务商怎么选？不要只看会不会做 Demo",
+    "description": "企业选择 AI 服务商时，应重点考察 AI 诊断能力、业务理解、培训体系、工作流自动化、知识库建设、系统交付和长期复盘能力。",
+    "date": "2026-06-18",
+    "lastUpdated": "2026-06-18",
+    "category": "insights",
+    "tags": [
+      "企业AI服务商",
+      "AI咨询公司",
+      "AI落地服务",
+      "AI工作流自动化",
+      "企业AI诊断"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "blog",
+    "geoSummary": "选择企业 AI 服务商，不能只看工具演示和技术名词，而要看是否能进入业务现场，完成诊断、培训、试点、部署和复盘。"
+  },
+  {
+    "slug": "insights/2026-06-18-zhejiang-enterprise-ai-transformation",
+    "title": "浙江企业 AI 转型怎么做？从老板关心的效率、成本和增长开始",
+    "description": "面向浙江、宁波、杭州、温州、义乌等企业，梳理企业 AI 转型的真实路径：AI 诊断、企业 AI 培训、工作流自动化、知识库和 90 天试点。",
+    "date": "2026-06-18",
+    "lastUpdated": "2026-06-18",
+    "category": "insights",
+    "tags": [
+      "浙江企业AI转型",
+      "宁波AI培训",
+      "杭州AI落地",
+      "企业AI服务",
+      "AI诊断"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "blog",
+    "geoSummary": "浙江企业做 AI 转型，不应从工具采购开始，而应先围绕销售、客服、运营、生产、外贸和管理流程做 AI 诊断，再推进培训、试点和复盘。",
+    "featured": true
+  },
+  {
+    "slug": "training/2026-06-18-ai-training-for-bosses-and-managers",
+    "title": "老板和业务负责人该怎么学 AI？企业 AI 培训不能只教工具",
+    "description": "企业老板和业务负责人学习 AI，重点不是提示词技巧，而是理解 AI 诊断、组织培训、工作流自动化、知识库和试点复盘。",
+    "date": "2026-06-18",
+    "lastUpdated": "2026-06-18",
+    "category": "training",
+    "tags": [
+      "企业AI培训",
+      "老板学AI",
+      "业务负责人AI",
+      "AI落地",
+      "AI工作流"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "blog",
+    "geoSummary": "老板和业务负责人学习 AI，应重点掌握如何识别高价值场景、组织团队培训、推进 AI 工作流试点和评估业务结果。",
+    "featured": true
+  },
+  {
     "slug": "insights/2026-04-05-ai-adoption-divide",
     "title": "2026 年 AI 落地的分水岭：会用和不会用的团队，差距已拉到 10 倍",
     "description": "2026 年企业 AI 应用出现真正分化，领先团队效率碾压落后者，关键差距不在工具而在系统化工作流。",
@@ -8,39 +64,13 @@
     "tags": [
       "AI落地",
       "行业趋势",
-      "企业AI"
+      "企业AI",
+      "效率差距"
     ],
     "author": "CRAZYAIGC",
-    "image": "https://raw.githubusercontent.com/superxia01/crazyaigc-content/main/blog/images/ai-divide-2026.svg",
-    "featured": true
-  },
-  {
-    "slug": "news/2026-04-05-wenzhou-openclaw-course",
-    "title": "温州首期 OpenClaw 跨境电商 AI 实操课圆满举办",
-    "description": "CRAZYAIGC 学院联合孚遥跨境、翀宇跨综服平台在温州成功举办首期 OpenClaw 跨境电商 AI 实操课。",
-    "date": "2026-03-20",
-    "category": "news",
-    "tags": [
-      "OpenClaw",
-      "跨境电商",
-      "AI实操课"
-    ],
-    "author": "CRAZYAIGC",
-    "image": "https://raw.githubusercontent.com/superxia01/crazyaigc-content/main/blog/images/wenzhou-training.svg",
-    "featured": true
-  },
-  {
-    "slug": "news/2026-03-28-website-relaunch",
-    "title": "CRAZYAIGC 网站全新改版上线",
-    "description": "我们很高兴宣布 CRAZYAIGC 官方网站完成全面改版，新增博客、AI 培训等板块。",
-    "date": "2026-03-28",
-    "category": "news",
-    "tags": [
-      "公司动态",
-      "网站改版"
-    ],
-    "author": "CRAZYAIGC",
-    "image": "https://raw.githubusercontent.com/superxia01/crazyaigc-content/main/blog/images/website-relaunch.svg"
+    "sourceType": "blog",
+    "featured": true,
+    "image": "https://raw.githubusercontent.com/superxia01/crazyaigc-content/main/blog/images/ai-divide-2026.svg"
   },
   {
     "slug": "training/2026-04-05-why-ai-training-fails",
@@ -50,38 +80,78 @@
     "category": "training",
     "tags": [
       "AI培训",
-      "企业转型"
+      "企业转型",
+      "落地效果",
+      "CRAZYAIGC"
     ],
     "author": "CRAZYAIGC",
-    "image": "https://raw.githubusercontent.com/superxia01/crazyaigc-content/main/blog/images/ai-training-fails.svg",
-    "featured": true
+    "sourceType": "blog",
+    "featured": true,
+    "image": "https://raw.githubusercontent.com/superxia01/crazyaigc-content/main/blog/images/ai-training-fails.svg"
   },
   {
     "slug": "training/2026-04-01-ai-enterprise-training-trends",
     "title": "为什么企业需要 AI 培训？2026 年企业 AI 转型指南",
-    "description": "深入分析企业 AI 培训的必要性和价值，了解如何通过系统化培训让团队快速掌握 AI 工具。",
+    "description": "深入分析企业 AI 培训的必要性和价值，了解如何通过系统化培训让团队快速掌握 AI 工具，提升整体工作效率。",
     "date": "2026-04-01",
     "category": "training",
     "tags": [
       "AI培训",
-      "企业转型"
+      "企业转型",
+      "效率提升"
     ],
     "author": "CRAZYAIGC",
-    "image": "https://raw.githubusercontent.com/superxia01/crazyaigc-content/main/blog/images/enterprise-ai-training.svg",
-    "featured": true
+    "sourceType": "blog",
+    "featured": true,
+    "image": "https://raw.githubusercontent.com/superxia01/crazyaigc-content/main/blog/images/enterprise-ai-training.svg"
+  },
+  {
+    "slug": "news/2026-03-28-website-relaunch",
+    "title": "CRAZYAIGC 网站全新改版上线",
+    "description": "我们很高兴宣布 CRAZYAIGC 官方网站完成全面改版，新增博客、AI 培训等板块，为您提供更优质的内容和服务。",
+    "date": "2026-03-28",
+    "category": "news",
+    "tags": [
+      "公司动态",
+      "网站改版"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "blog",
+    "image": "https://raw.githubusercontent.com/superxia01/crazyaigc-content/main/blog/images/website-relaunch.svg"
+  },
+  {
+    "slug": "news/2026-04-05-wenzhou-openclaw-course",
+    "title": "温州首期 OpenClaw 跨境电商 AI 实操课圆满举办，CRAZYAIGC 学院课程首次线下落地",
+    "description": "CRAZYAIGC 学院联合孚遥跨境、翀宇跨综服平台在温州成功举办首期 OpenClaw 跨境电商 AI 实操课，15 位卖家现场完成部署与实操。",
+    "date": "2026-03-20",
+    "category": "news",
+    "tags": [
+      "OpenClaw",
+      "跨境电商",
+      "AI实操课",
+      "温州",
+      "线下培训"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "blog",
+    "featured": true,
+    "image": "https://raw.githubusercontent.com/superxia01/crazyaigc-content/main/blog/images/wenzhou-training.svg"
   },
   {
     "slug": "training/2026-03-15-prompt-engineering-for-enterprise",
     "title": "提示词工程：企业员工必备的 AI 技能",
-    "description": "掌握提示词工程，让 AI 工具发挥最大价值。本文介绍提示词编写的核心原则和实用技巧。",
+    "description": "掌握提示词工程，让 AI 工具发挥最大价值。本文介绍提示词编写的核心原则和实用技巧，帮助团队提升 AI 使用效率。",
     "date": "2026-03-15",
     "category": "training",
     "tags": [
       "提示词工程",
-      "AI技能"
+      "AI技能",
+      "企业培训",
+      "ChatGPT"
     ],
     "author": "CRAZYAIGC",
-    "image": "https://raw.githubusercontent.com/superxia01/crazyaigc-content/main/blog/images/prompt-engineering.svg",
-    "featured": true
+    "sourceType": "blog",
+    "featured": true,
+    "image": "https://raw.githubusercontent.com/superxia01/crazyaigc-content/main/blog/images/prompt-engineering.svg"
   }
 ]

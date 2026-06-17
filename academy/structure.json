@@ -124,6 +124,10 @@
           {
             "title": "ChatGPT 指南",
             "path": "ai-tools/main-tools/chatgpt-guide"
+          },
+          {
+            "title": "Codex 入门指南：把 AI 当成会执行任务的代码与文档助手",
+            "path": "ai-tools/main-tools/codex-guide"
           }
         ]
       }
@@ -522,6 +526,10 @@
           {
             "title": "系统逻辑：用 AI 解释复杂代码逻辑、查 Bug、优化后端业务流程",
             "path": "programming/p3-development/system-logic"
+          },
+          {
+            "title": "Codex 企业工作流：从需求到代码、测试和部署验证",
+            "path": "programming/p3-development/codex-enterprise-workflow"
           }
         ]
       }
