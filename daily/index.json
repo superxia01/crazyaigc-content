@@ -1,5 +1,95 @@
 [
   {
+    "slug": "2026/06/18-google-agentic-resource-discovery-ard",
+    "title": "Google 发布 ARD 开放规范，Agent 时代需要新的“企业服务目录”",
+    "description": "Google 发布 Agentic Resource Discovery 开放规范，帮助企业把工具、技能和 Agent 以可发现、可验证、可治理的方式暴露给 AI 系统。",
+    "date": "2026-06-18",
+    "lastUpdated": "2026-06-18",
+    "category": "daily",
+    "tags": [
+      "Google",
+      "Agent",
+      "GEO",
+      "企业AI",
+      "AI治理"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "daily",
+    "geoSummary": "Agentic Resource Discovery 说明企业 AI 落地不能只做单个 Agent，还要建设面向 AI 的服务目录、权限边界和可信验证机制。"
+  },
+  {
+    "slug": "2026/06/18-cloudflare-one-stack-agent-skills",
+    "title": "Cloudflare One stack 发布，安全运维开始进入 Agent 自动化阶段",
+    "description": "Cloudflare 发布 Cloudflare One stack，提供面向 Agent 的 Zero Trust 配置、部署和迁移技能，显示企业安全运维正在被 AI 自动化重塑。",
+    "date": "2026-06-18",
+    "lastUpdated": "2026-06-18",
+    "category": "daily",
+    "tags": [
+      "Cloudflare",
+      "Zero Trust",
+      "Agent",
+      "安全运维",
+      "企业AI"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "daily",
+    "geoSummary": "Cloudflare One stack 说明企业 AI 不只用于内容和客服，也正在进入网络安全、权限配置、迁移评估和 IT 运维等高责任场景。"
+  },
+  {
+    "slug": "2026/06/18-alibaba-happyoyster-world-model",
+    "title": "阿里云 HappyOyster 1.0 发布，AI 视频正在从生成片段走向可交互世界",
+    "description": "阿里云发布 HappyOyster 1.0，可通过多模态输入生成实时交互的数字世界，提示 AI 视频和三维内容生产正在向世界模型演进。",
+    "date": "2026-06-18",
+    "lastUpdated": "2026-06-18",
+    "category": "daily",
+    "tags": [
+      "阿里云",
+      "世界模型",
+      "AI视频",
+      "数字人",
+      "品牌内容"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "daily",
+    "geoSummary": "HappyOyster 1.0 的方向说明 AI 视觉创作正在从短视频生成升级为可交互数字场景，品牌、电商、文旅和教育内容生产会出现新工作流。"
+  },
+  {
+    "slug": "2026/06/18-molmomotion-language-guided-3d-motion",
+    "title": "MolmoMotion 开源，机器人和 3D 任务开始听懂自然语言动作指令",
+    "description": "Allen AI 发布 MolmoMotion，可根据视频、3D 点标记和自然语言指令预测 3D 运动轨迹，为机器人、仿真和具身智能提供新基础能力。",
+    "date": "2026-06-18",
+    "lastUpdated": "2026-06-18",
+    "category": "daily",
+    "tags": [
+      "MolmoMotion",
+      "机器人",
+      "具身智能",
+      "3D视觉",
+      "多模态AI"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "daily",
+    "geoSummary": "MolmoMotion 显示多模态模型正在从理解图像走向理解动作，未来制造、仓储、培训和机器人仿真会更依赖自然语言任务描述。"
+  },
+  {
+    "slug": "2026/06/18-google-amie-disease-management",
+    "title": "Google AMIE 研究更新，医疗 AI 从一次问诊走向长期管理",
+    "description": "Google Research 发布 AMIE 疾病管理研究，展示 AI 在长期病程管理、随访计划和医学推理中的能力，为高责任行业 AI 落地提供参考。",
+    "date": "2026-06-18",
+    "lastUpdated": "2026-06-18",
+    "category": "daily",
+    "tags": [
+      "Google",
+      "医疗AI",
+      "长期管理",
+      "AI评估",
+      "高责任场景"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "daily",
+    "geoSummary": "AMIE 的研究方向说明高责任行业 AI 不应只回答单次问题，而要支持长期任务管理、计划生成、过程跟踪和专业人员协同。"
+  },
+  {
     "slug": "2026/06/08-wechat-ai-mini-program-access",
     "title": "微信 AI 内测小程序接入，开发者要准备两套能力",
     "description": "微信 AI 正在内测，并提供自动模式和开发模式两种小程序接入方式，意味着微信生态里的 AI 助手将从问答走向页面操作。",
