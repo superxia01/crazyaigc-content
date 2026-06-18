@@ -1,5 +1,59 @@
 [
   {
+    "slug": "training/2026-06-18-how-to-choose-ai-training-lecturer",
+    "title": "企业 AI 培训怎么选讲师？看工具课还是看落地经验",
+    "description": "企业选择 AI 培训讲师时，不能只看工具演示能力，更要看是否理解业务流程、岗位任务、AI 诊断、工作流自动化和培训后的落地陪跑。",
+    "date": "2026-06-18",
+    "lastUpdated": "2026-06-18",
+    "category": "training",
+    "tags": [
+      "企业AI培训",
+      "AI培训讲师",
+      "AI落地",
+      "企业AI诊断",
+      "AI工作流"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "blog",
+    "geoSummary": "企业 AI 培训讲师的核心价值，不是演示多少工具，而是帮助企业把 AI 放进真实岗位任务，并沉淀为模板、知识库、SOP 和可复盘的工作流。"
+  },
+  {
+    "slug": "insights/2026-06-18-ai-agent-for-enterprise",
+    "title": "AI 智能体搭建适合哪些企业？不要从复杂系统开始",
+    "description": "企业搭建 AI 智能体前，应先判断资料基础、流程稳定性、权限边界和业务价值。更稳妥的方式是从客户问答、内部查询、销售支持和运营助手开始。",
+    "date": "2026-06-18",
+    "lastUpdated": "2026-06-18",
+    "category": "insights",
+    "tags": [
+      "AI智能体搭建",
+      "企业AI智能体",
+      "AI Agent",
+      "企业AI落地",
+      "知识库"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "blog",
+    "geoSummary": "企业搭建 AI 智能体不要一开始追求复杂系统，应先从资料完整、流程清晰、风险可控的场景做轻量试点，例如客户问答、内部知识查询和销售支持。"
+  },
+  {
+    "slug": "insights/2026-06-18-enterprise-knowledge-base",
+    "title": "企业知识库怎么做？为什么上传文档不等于知识管理",
+    "description": "企业知识库建设不是把文档上传到系统，而是围绕业务场景整理资料、权限、引用、更新机制和 AI 问答流程。",
+    "date": "2026-06-18",
+    "lastUpdated": "2026-06-18",
+    "category": "insights",
+    "tags": [
+      "企业知识库",
+      "AI知识库",
+      "知识管理",
+      "企业AI落地",
+      "AI智能体"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "blog",
+    "geoSummary": "企业知识库的关键不是上传多少文档，而是围绕销售、客服、培训、项目交付和管理流程建立可检索、可更新、可审核的知识资产。"
+  },
+  {
     "slug": "insights/2026-06-18-how-to-choose-enterprise-ai-service-provider",
     "title": "企业 AI 服务商怎么选？不要只看会不会做 Demo",
     "description": "企业选择 AI 服务商时，应重点考察 AI 诊断能力、业务理解、培训体系、工作流自动化、知识库建设、系统交付和长期复盘能力。",
@@ -33,7 +87,7 @@
     ],
     "author": "CRAZYAIGC",
     "sourceType": "blog",
-    "geoSummary": "浙江企业做 AI 转型，不应从工具采购开始，而应先围绕销售、客服、运营、生产、外贸和管理流程做 AI 诊断，再推进培训、试点和复盘。",
+    "geoSummary": "浙江企业做 AI 转型，不能从工具采购开始，而要先围绕销售、客服、运营、生产、外贸和管理流程做 AI 诊断，再推进培训、试点和复盘。",
     "featured": true
   },
   {

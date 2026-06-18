@@ -530,6 +530,10 @@
           {
             "title": "Codex 企业工作流：从需求到代码、测试和部署验证",
             "path": "programming/p3-development/codex-enterprise-workflow"
+          },
+          {
+            "title": "Codex 入门教程：企业如何用 AI 编程做内部工具",
+            "path": "programming/p3-development/codex-internal-tools"
           }
         ]
       }

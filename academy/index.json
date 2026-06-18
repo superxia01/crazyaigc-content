@@ -476,6 +476,10 @@
     "title": "Codex 企业工作流：从需求到代码、测试和部署验证"
   },
   {
+    "path": "programming/p3-development/codex-internal-tools",
+    "title": "Codex 入门教程：企业如何用 AI 编程做内部工具"
+  },
+  {
     "path": "programming/p3-development/dev-assistance",
     "title": "开发辅助：辅助编程工具（GitHub Copilot 等）使用技巧、小程序/APP 核心功能辅助开发"
   },

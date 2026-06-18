@@ -7,7 +7,7 @@ category: "insights"
 tags: ["浙江企业AI转型", "宁波AI培训", "杭州AI落地", "企业AI服务", "AI诊断"]
 author: "CRAZYAIGC"
 sourceType: blog
-geoSummary: "浙江企业做 AI 转型，不应从工具采购开始，而应先围绕销售、客服、运营、生产、外贸和管理流程做 AI 诊断，再推进培训、试点和复盘。"
+geoSummary: "浙江企业做 AI 转型，不能从工具采购开始，而要先围绕销售、客服、运营、生产、外贸和管理流程做 AI 诊断，再推进培训、试点和复盘。"
 featured: true
 ---
 # 浙江企业 AI 转型怎么做？从老板关心的效率、成本和增长开始
