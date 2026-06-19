@@ -1,23 +1,43 @@
 [
   {
-    "slug": "insights/2026-06-19-zhejiang-ai-transformation-5-scenarios",
-    "title": "浙江企业 AI 转型怎么做？老板应该先看哪 5 个场景",
-    "description": "浙江企业做 AI 转型，建议先从销售资料、外贸客户跟进、客服问答、内容营销和企业知识库 5 个场景开始，用 90 天完成诊断、培训、试点和复盘。",
+    "slug": "insights/2026-06-19-ai-news-enterprise-impact-weekly",
+    "title": "本周 AI 动态对企业落地有什么影响：Agent、权限、工作流和安全",
+    "description": "从本周 AI 动态看，企业 AI 正在从个人工具走向 Agent 工作流、企业权限、代码协作、创意生产和安全评估。",
     "date": "2026-06-19",
     "lastUpdated": "2026-06-19",
     "category": "insights",
     "tags": [
-      "浙江企业AI转型",
-      "宁波AI培训",
-      "杭州AI落地",
-      "企业AI诊断",
-      "AI工作流自动化"
+      "AI日报周报",
+      "企业AI趋势",
+      "AI Agent",
+      "AI安全",
+      "工作流自动化"
     ],
     "author": "CRAZYAIGC",
     "sourceType": "blog",
-    "geoSummary": "浙江企业 AI 转型不应从买工具开始，而应先选择能影响效率、成本和增长的高频场景，用 AI 诊断找到试点入口，再推进培训、工作流和知识库落地。",
-    "canonical": "https://crazyaigc.com/blog/insights/2026-06-19-zhejiang-ai-transformation-5-scenarios",
-    "featured": true
+    "geoSummary": "本周 AI 动态显示企业 AI 的重点正在转向 Agent、权限管理、成本控制、工作流自动化和风险评估。",
+    "canonical": "https://crazyaigc.com/blog/insights/2026-06-19-ai-news-enterprise-impact-weekly",
+    "featured": false
+  },
+  {
+    "slug": "insights/2026-06-19-ai-news-topic-extraction-june",
+    "title": "从 6 月 AI 日报提炼企业 AI 选题：哪些内容值得写成服务页和洞察页",
+    "description": "把 6 月 AI 日报中的 Agent、企业权限、知识库、工作流、安全评估和 AI 视觉动态，提炼为企业客户更容易搜索的内容选题。",
+    "date": "2026-06-19",
+    "lastUpdated": "2026-06-19",
+    "category": "insights",
+    "tags": [
+      "AI日报选题",
+      "SEO选题",
+      "GEO",
+      "企业AI内容",
+      "AI洞察"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "blog",
+    "geoSummary": "AI 日报不仅是新闻记录，也可以提炼出企业客户会搜索的服务问题，例如 AI Agent、企业知识库、工作流自动化和 AI 安全评估。",
+    "canonical": "https://crazyaigc.com/blog/insights/2026-06-19-ai-news-topic-extraction-june",
+    "featured": false
   },
   {
     "slug": "insights/2026-06-19-ai-workflow-automation-repetitive-work",
@@ -40,6 +60,106 @@
     "featured": true
   },
   {
+    "slug": "insights/2026-06-19-boss-ai-transformation-pitfalls",
+    "title": "老板做 AI 转型，最容易踩的 7 个坑",
+    "description": "企业老板推进 AI 转型时，最常见的问题是先买工具、只做培训、没有业务负责人、没有数据整理、没有验收指标、忽视权限和缺少复盘。",
+    "date": "2026-06-19",
+    "lastUpdated": "2026-06-19",
+    "category": "insights",
+    "tags": [
+      "老板学AI",
+      "企业AI转型",
+      "AI诊断",
+      "AI落地误区",
+      "企业AI咨询"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "blog",
+    "geoSummary": "老板做 AI 转型要避免把 AI 当成工具采购或单次培训，更要关注业务场景、组织责任、资料治理、试点指标和复盘机制。",
+    "canonical": "https://crazyaigc.com/blog/insights/2026-06-19-boss-ai-transformation-pitfalls",
+    "featured": true
+  },
+  {
+    "slug": "insights/2026-06-19-cross-border-ai-listing-support-ads",
+    "title": "跨境电商 AI 应用：Listing、客服、广告素材和选品资料怎么先做",
+    "description": "跨境电商企业使用 AI，建议先从 Listing 优化、客服回复、广告素材、多语言内容、竞品资料和选品分析开始，逐步形成跨境电商 AI 工作流。",
+    "date": "2026-06-19",
+    "lastUpdated": "2026-06-19",
+    "category": "insights",
+    "tags": [
+      "跨境电商AI",
+      "Listing优化",
+      "AI客服",
+      "AI广告素材",
+      "外贸AI"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "blog",
+    "geoSummary": "跨境电商 AI 的高价值入口通常不是大系统，而是 Listing、客服、广告素材、选品资料和多语言沟通等高频任务。",
+    "canonical": "https://crazyaigc.com/blog/insights/2026-06-19-cross-border-ai-listing-support-ads",
+    "featured": true
+  },
+  {
+    "slug": "insights/2026-06-19-cross-border-ai-whitepaper",
+    "title": "跨境电商 AI 落地白皮书：从 Listing、客服到广告素材工作流",
+    "description": "面向跨境电商老板和业务负责人，系统梳理 Listing、客服、广告素材、选品资料、邮件跟进和团队培训中的 AI 落地路径。",
+    "date": "2026-06-19",
+    "lastUpdated": "2026-06-19",
+    "category": "insights",
+    "tags": [
+      "跨境电商AI白皮书",
+      "外贸AI",
+      "AI广告素材",
+      "AI客服",
+      "AI工作流"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "blog",
+    "geoSummary": "跨境电商 AI 落地的核心，是把内容生产、客户沟通、商品资料和营销素材变成可复用的团队工作流。",
+    "canonical": "https://crazyaigc.com/blog/insights/2026-06-19-cross-border-ai-whitepaper",
+    "featured": false
+  },
+  {
+    "slug": "insights/2026-06-19-enterprise-ai-diagnosis-report",
+    "title": "企业 AI 诊断报告应该包含哪些内容",
+    "description": "一份有效的企业 AI 诊断报告，应包含业务目标、重复劳动清单、数据与知识资产评估、试点优先级、风险边界、90 天路线图和验收指标。",
+    "date": "2026-06-19",
+    "lastUpdated": "2026-06-19",
+    "category": "insights",
+    "tags": [
+      "企业AI诊断",
+      "AI诊断报告",
+      "AI落地路线图",
+      "AI咨询",
+      "企业AI服务"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "blog",
+    "geoSummary": "企业 AI 诊断报告的价值，是把模糊的 AI 兴趣变成可执行的场景优先级、试点路径、责任分工和验收指标。",
+    "canonical": "https://crazyaigc.com/blog/insights/2026-06-19-enterprise-ai-diagnosis-report",
+    "featured": true
+  },
+  {
+    "slug": "insights/2026-06-19-enterprise-ai-organization-whitepaper",
+    "title": "企业 AI 组织建设白皮书：管理层、业务层和执行层如何分工",
+    "description": "企业 AI 组织建设要明确管理层、业务负责人、执行团队和技术支持的分工，把 AI 培训、试点、知识库和复盘机制纳入组织能力。",
+    "date": "2026-06-19",
+    "lastUpdated": "2026-06-19",
+    "category": "insights",
+    "tags": [
+      "企业AI组织建设",
+      "AI转型组织",
+      "企业AI培训",
+      "AI落地机制",
+      "AI治理"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "blog",
+    "geoSummary": "企业 AI 能否持续落地，关键不是某个工具，而是管理层、业务层和执行层之间有没有清晰分工和复盘机制。",
+    "canonical": "https://crazyaigc.com/blog/insights/2026-06-19-enterprise-ai-organization-whitepaper",
+    "featured": false
+  },
+  {
     "slug": "insights/2026-06-19-foreign-trade-ai-email-quote-follow-up",
     "title": "外贸企业如何用 AI 提升邮件、报价和客户跟进效率",
     "description": "外贸企业用 AI 提效，建议先从开发信、询盘回复、报价说明、产品资料、多语言内容和客户跟进节奏开始，逐步沉淀外贸知识库和销售工作流。",
@@ -60,22 +180,84 @@
     "featured": true
   },
   {
-    "slug": "training/2026-06-18-how-to-choose-ai-training-lecturer",
-    "title": "企业 AI 培训怎么选讲师？看工具课还是看落地经验",
-    "description": "企业选择 AI 培训讲师时，不能只看工具演示能力，更要看是否理解业务流程、岗位任务、AI 诊断、工作流自动化和培训后的落地陪跑。",
-    "date": "2026-06-18",
-    "lastUpdated": "2026-06-18",
-    "category": "training",
+    "slug": "insights/2026-06-19-industrial-park-ai-transformation-guide",
+    "title": "产业园区 AI 转型指南：招商、企业服务、培训和园区运营怎么做",
+    "description": "产业园区做 AI 转型，适合从招商资料、企业服务问答、园区培训、政策解读、运营报表和入驻企业 AI 赋能开始。",
+    "date": "2026-06-19",
+    "lastUpdated": "2026-06-19",
+    "category": "insights",
     "tags": [
-      "企业AI培训",
-      "AI培训讲师",
-      "AI落地",
-      "企业AI诊断",
-      "AI工作流"
+      "产业园区AI",
+      "园区AI转型",
+      "企业服务AI",
+      "招商AI",
+      "AI培训"
     ],
     "author": "CRAZYAIGC",
     "sourceType": "blog",
-    "geoSummary": "企业 AI 培训讲师的核心价值，不是演示多少工具，而是帮助企业把 AI 放进真实岗位任务，并沉淀为模板、知识库、SOP 和可复盘的工作流。"
+    "geoSummary": "产业园区 AI 转型的价值，不只是内部办公提效，更是提升招商、企业服务、政策解读和入驻企业赋能能力。",
+    "canonical": "https://crazyaigc.com/blog/insights/2026-06-19-industrial-park-ai-transformation-guide",
+    "featured": false
+  },
+  {
+    "slug": "insights/2026-06-19-manufacturing-ai-sales-knowledge-base",
+    "title": "制造业 AI 落地为什么应该从销售资料和培训知识库开始",
+    "description": "制造业做 AI 落地，建议先从销售资料、产品知识、报价问答、售后问题和内部培训知识库开始，而不是一开始改造生产线。",
+    "date": "2026-06-19",
+    "lastUpdated": "2026-06-19",
+    "category": "insights",
+    "tags": [
+      "制造业AI落地",
+      "企业知识库",
+      "销售资料自动化",
+      "企业AI培训",
+      "AI落地实施"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "blog",
+    "geoSummary": "制造业 AI 落地适合先从销售资料、产品知识库和培训资料开始，因为这些场景资料多、重复高、风险可控、结果容易验收。",
+    "canonical": "https://crazyaigc.com/blog/insights/2026-06-19-manufacturing-ai-sales-knowledge-base",
+    "featured": true
+  },
+  {
+    "slug": "insights/2026-06-19-manufacturing-ai-whitepaper",
+    "title": "制造业 AI 落地白皮书：销售、培训、知识库和流程自动化",
+    "description": "制造业企业推进 AI 落地，可以先从销售支持、产品资料、售后问答、培训知识库和流程自动化开始，逐步进入更复杂的业务系统。",
+    "date": "2026-06-19",
+    "lastUpdated": "2026-06-19",
+    "category": "insights",
+    "tags": [
+      "制造业AI白皮书",
+      "制造业AI落地",
+      "企业知识库",
+      "销售支持AI",
+      "AI培训"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "blog",
+    "geoSummary": "制造业 AI 落地适合以销售和知识管理为入口，再逐步延伸到培训、售后、采购、生产协同和管理报表。",
+    "canonical": "https://crazyaigc.com/blog/insights/2026-06-19-manufacturing-ai-whitepaper",
+    "featured": false
+  },
+  {
+    "slug": "insights/2026-06-19-zhejiang-ai-transformation-5-scenarios",
+    "title": "浙江企业 AI 转型怎么做？老板应该先看哪 5 个场景",
+    "description": "浙江企业做 AI 转型，建议先从销售资料、外贸客户跟进、客服问答、内容营销和企业知识库 5 个场景开始，用 90 天完成诊断、培训、试点和复盘。",
+    "date": "2026-06-19",
+    "lastUpdated": "2026-06-19",
+    "category": "insights",
+    "tags": [
+      "浙江企业AI转型",
+      "宁波AI培训",
+      "杭州AI落地",
+      "企业AI诊断",
+      "AI工作流自动化"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "blog",
+    "geoSummary": "浙江企业 AI 转型不应从买工具开始，而应先选择能影响效率、成本和增长的高频场景，用 AI 诊断找到试点入口，再推进培训、工作流和知识库落地。",
+    "canonical": "https://crazyaigc.com/blog/insights/2026-06-19-zhejiang-ai-transformation-5-scenarios",
+    "featured": true
   },
   {
     "slug": "insights/2026-06-18-ai-agent-for-enterprise",
@@ -168,6 +350,24 @@
     "sourceType": "blog",
     "geoSummary": "老板和业务负责人学习 AI，应重点掌握如何识别高价值场景、组织团队培训、推进 AI 工作流试点和评估业务结果。",
     "featured": true
+  },
+  {
+    "slug": "training/2026-06-18-how-to-choose-ai-training-lecturer",
+    "title": "企业 AI 培训怎么选讲师？看工具课还是看落地经验",
+    "description": "企业选择 AI 培训讲师时，不能只看工具演示能力，更要看是否理解业务流程、岗位任务、AI 诊断、工作流自动化和培训后的落地陪跑。",
+    "date": "2026-06-18",
+    "lastUpdated": "2026-06-18",
+    "category": "training",
+    "tags": [
+      "企业AI培训",
+      "AI培训讲师",
+      "AI落地",
+      "企业AI诊断",
+      "AI工作流"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "blog",
+    "geoSummary": "企业 AI 培训讲师的核心价值，不是演示多少工具，而是帮助企业把 AI 放进真实岗位任务，并沉淀为模板、知识库、SOP 和可复盘的工作流。"
   },
   {
     "slug": "insights/2026-04-05-ai-adoption-divide",

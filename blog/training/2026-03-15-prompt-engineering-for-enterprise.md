@@ -154,3 +154,10 @@ Few-shot 学习能显著提升输出质量：
 ---
 
 *CRAZYAIGC - 解锁 AI 新生产力*
+
+## 相关页面
+
+- [企业 AI 服务流程](/services)
+- [行业与区域 AI 场景](/industries)
+- [区域 AI 落地](/locations)
+

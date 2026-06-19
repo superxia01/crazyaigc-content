@@ -58,6 +58,14 @@
           {
             "path": "ai-tools/main-tools/codex-from-requirement-to-page",
             "title": "Codex 实战：从需求到可运行页面"
+          },
+          {
+            "path": "foundation/a1-basics/enterprise-knowledge-base-basics",
+            "title": "企业知识库入门：资料整理、权限、问答和维护"
+          },
+          {
+            "path": "foundation/a1-basics/ai-agent-basics",
+            "title": "AI Agent 入门：什么时候需要智能体，什么时候不需要"
           }
         ]
       },
@@ -92,6 +100,10 @@
           {
             "title": "结构化输出控制：精准输出表格、清单、JSON 等格式",
             "path": "foundation/a2-prompt/structured-output"
+          },
+          {
+            "path": "foundation/a2-prompt/team-prompt-template-library",
+            "title": "企业提示词工程：从个人技巧到团队模板库"
           }
         ]
       }

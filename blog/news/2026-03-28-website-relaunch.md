@@ -60,3 +60,9 @@ CRAZYAIGC 是一支专注 AI 落地的团队，为企业与个人提供：
 ---
 
 *CRAZYAIGC - 解锁 AI 新生产力*
+
+## 相关页面
+
+- [行业与区域 AI 场景](/industries)
+- [区域 AI 落地](/locations)
+

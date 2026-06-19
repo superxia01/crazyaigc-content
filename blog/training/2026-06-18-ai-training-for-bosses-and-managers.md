@@ -93,3 +93,10 @@ featured: true
 - 哪些成果可以沉淀成可复用流程？
 
 这也是 CRAZYAIGC 做企业 AI 培训和 AI 落地服务时最重视的部分。
+
+## 相关页面
+
+- [企业 AI 服务流程](/services)
+- [行业与区域 AI 场景](/industries)
+- [区域 AI 落地](/locations)
+

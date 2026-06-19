@@ -111,3 +111,9 @@ AI 可以提升流程效率，但不能替代企业先把流程讲清楚。
 - OpenAI：企业级 AI Agent 与工具调用实践资料
 - Microsoft Work Trend Index：AI 在组织协作中的应用趋势
 - CRAZYAIGC 企业知识库与智能体试点项目经验整理
+
+## 相关页面
+
+- [行业与区域 AI 场景](/industries)
+- [区域 AI 落地](/locations)
+

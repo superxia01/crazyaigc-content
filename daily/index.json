@@ -1,5 +1,95 @@
 [
   {
+    "slug": "2026/06/19-adobe-creative-cloud-agents",
+    "title": "Adobe 为 Creative Cloud 加入创意智能体，营销素材流程继续自动化",
+    "description": "Adobe 将 AI Assistant 扩展到 Photoshop、Premiere 等应用，可辅助素材整理、粗剪、换背景和批量生成文件。",
+    "date": "2026-06-19",
+    "lastUpdated": "2026-06-19",
+    "category": "daily",
+    "tags": [
+      "Adobe",
+      "AI视觉",
+      "营销素材",
+      "创意工作流",
+      "AI视频"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "daily",
+    "geoSummary": "AI 视觉创作正在从单张图片生成进入多步骤创意工作流，品牌、电商和内容团队需要重新设计素材生产流程。"
+  },
+  {
+    "slug": "2026/06/19-anthropic-managed-mcp-auth",
+    "title": "Claude Enterprise 推出 MCP 企业托管授权，Agent 落地更依赖权限治理",
+    "description": "Anthropic 推出企业托管 MCP 连接器授权管理，支持通过身份提供商为组织统一配置连接器访问。",
+    "date": "2026-06-19",
+    "lastUpdated": "2026-06-19",
+    "category": "daily",
+    "tags": [
+      "Anthropic",
+      "MCP",
+      "企业权限",
+      "Agent",
+      "AI治理"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "daily",
+    "geoSummary": "企业部署 Agent 不只是接工具，还需要统一身份、权限撤销、连接器范围和工作数据隔离。"
+  },
+  {
+    "slug": "2026/06/19-claude-code-artifacts",
+    "title": "Claude Code 支持 artifacts，代码协作正在从文本回复走向可分享工作台",
+    "description": "Claude Code 可生成可分享的交互式 artifacts，用于 PR 走查、系统说明、仪表盘和发布清单等协作场景。",
+    "date": "2026-06-19",
+    "lastUpdated": "2026-06-19",
+    "category": "daily",
+    "tags": [
+      "Claude Code",
+      "Artifacts",
+      "代码协作",
+      "AI开发",
+      "企业AI"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "daily",
+    "geoSummary": "AI 编程工具正在从个人代码助手升级为团队协作界面，适合用于内部工具、发布复盘和工程知识沉淀。"
+  },
+  {
+    "slug": "2026/06/19-mosaicleaks-agent-privacy",
+    "title": "MosaicLeaks 研究提醒：企业知识库和研究 Agent 必须防止私有信息泄露",
+    "description": "MosaicLeaks 研究显示，深度研究智能体在混合本地私有文档和网页检索时存在泄露私有信息的风险。",
+    "date": "2026-06-19",
+    "lastUpdated": "2026-06-19",
+    "category": "daily",
+    "tags": [
+      "MosaicLeaks",
+      "AI安全",
+      "企业知识库",
+      "Agent",
+      "隐私保护"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "daily",
+    "geoSummary": "企业知识库和研究 Agent 上线前需要做权限、引用、日志和泄露测试，不能只看回答是否完整。"
+  },
+  {
+    "slug": "2026/06/19-openai-enterprise-spend-controls",
+    "title": "OpenAI 推出企业用量分析与支出控制，AI 成本治理开始变成管理动作",
+    "description": "OpenAI 为 ChatGPT Enterprise 推出用量分析和支出控制，企业可以按用户、产品、模型和团队追踪信用消耗。",
+    "date": "2026-06-19",
+    "lastUpdated": "2026-06-19",
+    "category": "daily",
+    "tags": [
+      "OpenAI",
+      "ChatGPT Enterprise",
+      "AI成本治理",
+      "企业AI",
+      "Codex"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "daily",
+    "geoSummary": "企业 AI 进入规模化使用后，预算、权限、用量分析和额度申请会成为管理层必须关注的治理动作。"
+  },
+  {
     "slug": "2026/06/18-alibaba-happyoyster-world-model",
     "title": "阿里云 HappyOyster 1.0 发布，AI 视频正在从生成片段走向可交互世界",
     "description": "阿里云发布 HappyOyster 1.0，可通过多模态输入生成实时交互的数字世界，提示 AI 视频和三维内容生产正在向世界模型演进。",

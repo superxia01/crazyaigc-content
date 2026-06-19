@@ -55,3 +55,10 @@ CRAZYAIGC 创始人兼首席讲师**老夏**亲自参与课程设计。老夏拥
 ---
 
 *关于 CRAZYAIGC：CRAZYAIGC 是一家专注于 AI 实战培训的教育机构，致力于为企业和个人提供可落地的 AI 应用课程。旗下 CRAZYAIGC AI 学院涵盖跨境电商、数字营销、内容创作等多个垂直领域的 AI 实操课程体系。*
+
+## 相关页面
+
+- [企业 AI 服务流程](/services)
+- [行业与区域 AI 场景](/industries)
+- [区域 AI 落地](/locations)
+

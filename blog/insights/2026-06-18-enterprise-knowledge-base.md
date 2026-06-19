@@ -111,3 +111,9 @@ geoSummary: "企业知识库的关键不是上传多少文档，而是围绕销�
 - Gartner：知识管理和企业 AI 应用相关研究
 - OpenAI：企业数据使用与 AI 安全建议
 - CRAZYAIGC 企业知识库项目方法论整理
+
+## 相关页面
+
+- [行业与区域 AI 场景](/industries)
+- [区域 AI 落地](/locations)
+
