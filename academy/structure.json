@@ -54,6 +54,10 @@
           {
             "title": "个人/团队 AI 工作流搭建：从需求提出到 AI 输出的完整实操",
             "path": "foundation/a1-basics/workflow-setup"
+          },
+          {
+            "path": "ai-tools/main-tools/codex-from-requirement-to-page",
+            "title": "Codex 实战：从需求到可运行页面"
           }
         ]
       },
@@ -128,6 +132,10 @@
           {
             "title": "Codex 入门指南：把 AI 当成会执行任务的代码与文档助手",
             "path": "ai-tools/main-tools/codex-guide"
+          },
+          {
+            "path": "foundation/a1-basics/ai-workflow-input-process-output",
+            "title": "AI 工作流入门：把重复任务拆成输入、处理和输出"
           }
         ]
       }

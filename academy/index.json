@@ -1,5 +1,13 @@
 [
   {
+    "path": "ai-tools/main-tools/codex-from-requirement-to-page",
+    "title": "Codex 实战：从需求到可运行页面"
+  },
+  {
+    "path": "foundation/a1-basics/ai-workflow-input-process-output",
+    "title": "AI 工作流入门：把重复任务拆成输入、处理和输出"
+  },
+  {
     "path": "ai-tools/main-tools/chatgpt-guide",
     "title": "ChatGPT 指南"
   },
