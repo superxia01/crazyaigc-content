@@ -1,5 +1,95 @@
 [
   {
+    "slug": "2026/06/24-ai-cyber-threats-enterprise-defense",
+    "title": "五眼联盟警告 AI 网络威胁升级，企业 AI 落地必须同步做安全治理",
+    "description": "五眼联盟网络安全部门警告，AI 模型和自动化智能体将降低复杂攻击门槛，企业需要关注自动化防御、多因素认证和闲置账户清理。",
+    "date": "2026-06-24",
+    "lastUpdated": "2026-06-24",
+    "category": "daily",
+    "tags": [
+      "AI安全",
+      "网络安全",
+      "企业AI治理",
+      "AI Agent",
+      "风险控制"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "daily",
+    "geoSummary": "AI 网络威胁升级提醒企业：AI 落地不能只追求效率，也要同步建立账号权限、日志审计、数据隔离和自动化防御机制。"
+  },
+  {
+    "slug": "2026/06/24-claude-tag-slack-agent-collaboration",
+    "title": "Anthropic 推出 Claude Tag，Slack 里的 Agent 协作开始进入企业场景",
+    "description": "Anthropic 推出 Claude Tag，企业团队可以在 Slack 频道中通过 @Claude 委托任务，Claude 可记住频道上下文，并支持异步推进项目。",
+    "date": "2026-06-24",
+    "lastUpdated": "2026-06-24",
+    "category": "daily",
+    "tags": [
+      "Anthropic",
+      "Claude",
+      "Slack",
+      "AI Agent",
+      "企业协作"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "daily",
+    "geoSummary": "Claude Tag 显示 Agent 正在进入团队协作工具，企业 AI 落地的关键会变成频道权限、上下文边界、日志审计和异步任务管理。"
+  },
+  {
+    "slug": "2026/06/24-doubao-pro-office-agent",
+    "title": "豆包专业版上线，办公 Agent 正在从聊天工具走向任务执行",
+    "description": "豆包推出专业版，基于豆包 2.1 系列模型，面向复杂办公与生产力场景，支持办公任务模式、Skills 技能、浏览器和本地电脑操作。",
+    "date": "2026-06-24",
+    "lastUpdated": "2026-06-24",
+    "category": "daily",
+    "tags": [
+      "豆包",
+      "办公Agent",
+      "企业AI",
+      "工作流自动化",
+      "AI生产力"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "daily",
+    "geoSummary": "豆包专业版说明国内通用 AI 工具正在进入办公任务执行阶段，企业需要把 AI 培训从提示词扩展到任务拆解、权限边界和结果验收。"
+  },
+  {
+    "slug": "2026/06/24-ibm-cuga-agent-framework",
+    "title": "IBM 开源 CUGA，轻量级 Agent 框架继续推动企业应用原型化",
+    "description": "IBM 开源 CUGA，一个处理规划、执行循环、工具调用和状态管理的轻量级智能体框架，并提供二十余个单文件示例应用。",
+    "date": "2026-06-24",
+    "lastUpdated": "2026-06-24",
+    "category": "daily",
+    "tags": [
+      "IBM",
+      "CUGA",
+      "AI Agent",
+      "MCP",
+      "企业AI开发"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "daily",
+    "geoSummary": "IBM CUGA 显示企业 Agent 开发正在走向轻量化和模块化，业务团队可以更快验证工具调用、规划执行和状态管理原型。"
+  },
+  {
+    "slug": "2026/06/24-mistral-ocr-4-document-ai",
+    "title": "Mistral OCR 4 发布，企业文档 AI 正在从识别文字走向结构化理解",
+    "description": "Mistral AI 发布 OCR 4，支持边界框、块分类、逐页逐词置信度分数，覆盖 170 种语言，并支持单容器自托管部署。",
+    "date": "2026-06-24",
+    "lastUpdated": "2026-06-24",
+    "category": "daily",
+    "tags": [
+      "Mistral",
+      "OCR",
+      "Document AI",
+      "企业知识库",
+      "文档自动化"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "daily",
+    "geoSummary": "Mistral OCR 4 对企业知识库和文档自动化很重要，因为文档 AI 的核心不只是识别文字，而是理解表格、签名、标题、方程和置信度。"
+  },
+  {
     "slug": "2026/06/19-adobe-creative-cloud-agents",
     "title": "Adobe 为 Creative Cloud 加入创意智能体，营销素材流程继续自动化",
     "description": "Adobe 将 AI Assistant 扩展到 Photoshop、Premiere 等应用，可辅助素材整理、粗剪、换背景和批量生成文件。",

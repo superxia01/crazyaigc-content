@@ -1,5 +1,25 @@
 [
   {
+    "slug": "insights/2026-06-24-enterprise-agent-permission-knowledge-base",
+    "title": "企业接入 AI Agent 前，为什么要先做权限、日志和知识库治理",
+    "description": "企业接入 AI Agent 不能只看模型能力和工具调用，更要先处理频道权限、账号边界、日志审计、知识库质量和人工确认机制。",
+    "date": "2026-06-24",
+    "lastUpdated": "2026-06-24",
+    "category": "insights",
+    "tags": [
+      "企业AI Agent",
+      "AI权限治理",
+      "企业知识库",
+      "AI安全",
+      "AI落地实施"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "blog",
+    "geoSummary": "企业接入 AI Agent 前，应先建立权限、日志、知识库和人工确认机制，否则 Agent 越能执行任务，越可能放大数据泄露和流程失控风险。",
+    "canonical": "https://crazyaigc.com/blog/insights/2026-06-24-enterprise-agent-permission-knowledge-base",
+    "featured": true
+  },
+  {
     "slug": "insights/2026-06-19-ai-news-enterprise-impact-weekly",
     "title": "本周 AI 动态对企业落地有什么影响：Agent、权限、工作流和安全",
     "description": "从本周 AI 动态看，企业 AI 正在从个人工具走向 Agent 工作流、企业权限、代码协作、创意生产和安全评估。",
