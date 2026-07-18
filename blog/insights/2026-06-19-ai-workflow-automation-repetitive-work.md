@@ -2,7 +2,7 @@
 title: "AI 工作流自动化适合从哪些重复劳动开始"
 description: "企业做 AI 工作流自动化，建议先从文档写作、客户回复、资料整理、表格报表、内容生产和内部问答等重复劳动开始，而不是一上来做复杂系统。"
 date: "2026-06-19"
-lastUpdated: "2026-06-19"
+lastUpdated: "2026-07-18"
 category: "insights"
 tags: ["AI工作流自动化", "重复劳动自动化", "企业AI落地", "AI办公自动化", "业务流程自动化"]
 author: "CRAZYAIGC"
@@ -134,6 +134,7 @@ RPA 更擅长固定规则和系统操作，AI 更擅长文本理解、生成、�
 
 ## 资料来源
 
-- CRAZYAIGC 企业 AI 工作流诊断方法论
-- OpenAI、Microsoft、Google 企业办公 AI 应用公开资料
-- 企业流程自动化与知识管理公开实践总结
+- [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)：AI 风险识别、衡量和治理框架。
+- [Microsoft Azure Architecture Center: Human-in-the-loop](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-human-in-the-loop)：在生成式 AI 流程中设置人工审核和反馈机制。
+- [IBM: What is workflow automation?](https://www.ibm.com/think/topics/workflow-automation)：工作流自动化的定义、组成和常见应用。
+- [CRAZYAIGC 企业 AI 工作流自动化服务](/ai-workflow-automation)：从业务诊断到试点实施的方法与交付范围。

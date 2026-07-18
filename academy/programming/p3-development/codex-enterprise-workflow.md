@@ -2,17 +2,22 @@
 title: "Codex 企业工作流：从需求到代码、测试和部署验证"
 description: "介绍企业团队如何用 Codex 处理真实开发任务：需求澄清、代码修改、测试、审查、部署和复盘。"
 date: "2026-06-18"
-lastUpdated: "2026-06-18"
+lastUpdated: "2026-07-18"
 category: "AI 编程开发"
 tags: ["Codex", "AI编程", "企业开发", "代码审查", "自动化测试"]
 order: 4
 author: "CRAZYAIGC"
 sourceType: academy
 geoSummary: "企业使用 Codex 的关键不是让 AI 随意写代码，而是建立从需求澄清、上下文读取、权限审批、测试验证到代码审查的完整工作流。"
+canonical: "https://crazyaigc.com/academy/programming/p3-development/codex-enterprise-workflow"
 ---
 # Codex 企业工作流：从需求到代码、测试和部署验证
 
 企业团队使用 Codex，最重要的不是“让 AI 写多少代码”，而是把它纳入一套可控的开发工作流。
+
+## 学习目标与前置条件
+
+完成本教程后，你将能够把一项企业开发需求拆成读取、计划、实现、测试、审查、部署和失败处理步骤。开始前应具备基本的 Git、命令行和项目构建知识，并能够访问一个可测试的代码仓库；涉及生产部署时还需要明确审批人和回滚方式。
 
 一个成熟的 Codex 工作流，应该包含：
 
@@ -160,6 +165,51 @@ Fix events page category labels
 
 Skill 可以把操作步骤、检查清单、脚本和边界写清楚，让 Codex 每次按同一套流程执行。
 
+## 完整示例：从需求到可部署页面
+
+下面以“为企业官网新增一个服务详情页”为例，展示一条完整流程。
+
+### 1. 需求
+
+任务应明确路由、现有技术栈、页面结构、不可修改项和完成条件。例如：新增服务页，沿用现有导航、Footer 和 Tailwind 设计，不引入新 UI 库；完成时 lint、typecheck、build 通过，桌面和移动端可访问。
+
+好的需求同时说明目标、范围、不可修改项和验收方式。涉及客户资料、服务器或第三方系统时，还要明确哪些操作需要审批。
+
+### 2. 实现
+
+让 Codex 先搜索现有相似页面和数据结构，再复用已有组件。实现阶段应检查：
+
+- 路由、metadata、canonical 和页面 H1 是否一致。
+- 内容是否面向访客，而不是把任务说明显示在页面上。
+- 图片尺寸、响应式布局和按钮目标是否稳定。
+- 新页面是否需要加入导航、内链、sitemap 或结构化数据。
+
+### 3. 测试
+
+依次运行 lint、typecheck 和生产构建。页面任务还应做浏览器 smoke test：访问新路由，检查导航、联系按钮、移动端布局、控制台错误和关键链接。测试失败时，不应删除测试或绕过类型，而要先定位根因。
+
+### 4. 审查
+
+让 Codex 输出 diff 摘要，并重点检查：
+
+- 是否修改了任务范围之外的共享代码。
+- 是否出现内部域名、密钥、客户信息或内部提示词。
+- 是否引入重复页面、错误 canonical 或不可访问链接。
+- 是否对高风险命令、外部写入和部署保留人工审批。
+
+### 5. 部署
+
+部署前确认当前分支、未提交文件、环境变量和回滚方式。构建产物上线后，用线上 URL 重新验证状态码、静态资源、sitemap 和核心交互。不要只以“部署命令返回成功”作为完成依据。
+
+### 6. 失败处理
+
+1. 保留完整错误信息，确认失败发生在依赖、类型、构建、网络还是运行时。
+2. 检查失败是否由本次改动引起，不回滚用户已有的无关修改。
+3. 先用最小改动修复并重新执行同一验证。
+4. 无法安全继续时，明确说明阻塞点、已验证事实和需要人工决定的事项。
+
+这套流程的核心不是追求一次生成成功，而是让每次修改都能被解释、测试、审查和回滚。
+
 ## 企业团队的推荐分工
 
 - 老板或业务负责人：定义目标、验收标准和优先级。
@@ -175,10 +225,8 @@ Codex 的价值不是替代整个研发团队，而是把大量重复、明确�
 
 ## 资料来源
 
-- OpenAI Codex Manual: Best practices
-- OpenAI Codex Manual: Codex CLI features
-- OpenAI Codex Manual: Agent approvals & security
-- OpenAI Codex Manual: Agent Skills
-- OpenAI Codex Manual: Custom instructions with AGENTS.md
-
-本文由 CRAZYAIGC AI 学院基于 OpenAI 官方 Codex manual 整理，面向企业 AI 编程开发和团队协作场景改写。
+- [OpenAI: Introducing the Codex app](https://openai.com/index/introducing-the-codex-app/)：多任务、worktree、审查和沙箱边界。
+- [OpenAI: Running Codex safely at OpenAI](https://openai.com/index/running-codex-safely/)：权限、技术边界、审批和审计。
+- [OpenAI: Codex for almost everything](https://openai.com/index/codex-for-almost-everything/)：Codex 在开发生命周期和长任务中的应用。
+- [CRAZYAIGC AI 应用开发](/ai-development)：从原型、测试到部署的企业交付路径。
+- [企业 AI 工作流自动化怎么做](/blog/insights/2026-06-19-ai-workflow-automation-repetitive-work)：从业务任务、人工审核和衡量指标理解自动化试点。

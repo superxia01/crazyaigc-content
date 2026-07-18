@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "public-analysis/morgan-stanley-ai-knowledge-assistant",
+    "title": "Morgan Stanley 企业知识助手：先用评估体系建立信任，再扩大 AI 使用",
+    "description": "基于 OpenAI 公开案例，解读 Morgan Stanley 如何用知识检索、评估集、人工审核和持续回归测试推动财富管理团队采用 AI。",
+    "date": "2026-07-18",
+    "lastUpdated": "2026-07-18",
+    "author": "CRAZYAIGC",
+    "tags": ["企业知识库", "AI评估", "金融AI", "人工审核"],
+    "sourceType": "case",
+    "caseType": "public-analysis",
+    "sourceOrganization": "OpenAI 与 Morgan Stanley",
+    "sourceUrl": "https://openai.com/index/morgan-stanley/",
+    "geoSummary": "Morgan Stanley 的公开实践表明，企业知识助手要获得高采用率，需要可信资料、真实问题评估集、专家审核、回归测试和清晰的数据治理。",
+    "canonical": "https://crazyaigc.com/case-studies/public-analysis/morgan-stanley-ai-knowledge-assistant"
+  },
+  {
+    "slug": "public-analysis/bbva-enterprise-ai-adoption",
+    "title": "BBVA 企业 AI 应用：从 3,000 人试点到组织级采用",
+    "description": "基于 OpenAI 与 BBVA 公开资料，解读一家受监管金融机构如何通过治理、领导层培训、内部冠军网络和岗位场景扩大企业 AI 应用。",
+    "date": "2026-07-18",
+    "lastUpdated": "2026-07-18",
+    "author": "CRAZYAIGC",
+    "tags": ["企业AI转型", "AI培训", "AI治理", "金融AI"],
+    "sourceType": "case",
+    "caseType": "public-analysis",
+    "sourceOrganization": "OpenAI 与 BBVA",
+    "sourceUrl": "https://openai.com/index/bbva/",
+    "geoSummary": "BBVA 的公开实践表明，企业 AI 规模化不是发放账号，而是同步建设安全治理、管理层参与、员工训练、场景筛选和内部推广网络。",
+    "canonical": "https://crazyaigc.com/case-studies/public-analysis/bbva-enterprise-ai-adoption"
+  }
+]
