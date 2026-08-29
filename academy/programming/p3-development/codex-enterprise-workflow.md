@@ -2,7 +2,7 @@
 title: "Codex 企业工作流：从需求到代码、测试和部署验证"
 description: "介绍企业团队如何用 Codex 处理真实开发任务：需求澄清、代码修改、测试、审查、部署和复盘。"
 date: "2026-06-18"
-lastUpdated: "2026-08-29"
+lastUpdated: "2026-08-30"
 category: "AI 编程开发"
 tags: ["Codex", "AI编程", "企业开发", "代码审查", "自动化测试"]
 order: 4
@@ -231,6 +231,8 @@ Codex 的价值不是替代整个研发团队，而是把大量重复、明确�
 - [OpenAI: Running Codex safely at OpenAI](https://openai.com/index/running-codex-safely/)：权限、技术边界、审批和审计。
 - [OpenAI: Codex for almost everything](https://openai.com/index/codex-for-almost-everything/)：Codex 在开发生命周期和长任务中的应用。
 - [CRAZYAIGC AI 应用开发](/ai-development)：从原型、测试到部署的企业交付路径。
+- [企业 AI 服务流程](/services)：判断培训、标准产品和定制落地的适用边界。
+- [企业 AI 定制落地](/enterprise-services)：了解需求诊断、系统接入、测试验收与持续运营。
 - [企业 AI 工作流自动化怎么做](/blog/insights/2026-06-19-ai-workflow-automation-repetitive-work)：从业务任务、人工审核和衡量指标理解自动化试点。
 - [Codex 实战：从需求到可运行页面](/academy/ai-tools/main-tools/codex-from-requirement-to-page)：用一个页面任务熟悉读取、实现和验证流程。
 - [企业 AI 落地案例](/case-studies)：查看知识助手、组织采用与人工审核的公开案例解读。

@@ -2,7 +2,7 @@
 title: "AI Agent 入门：什么时候需要智能体，什么时候不需要"
 description: "判断企业是否需要 AI Agent，要先看任务是否多步骤、是否需要调用工具、是否有权限边界和结果验收。"
 date: 2026-06-19
-lastUpdated: 2026-07-18
+lastUpdated: 2026-08-30
 category: academy
 tags: ["企业AI培训", "AI落地", "AI工作流", "企业知识库"]
 author: CRAZYAIGC
@@ -70,11 +70,14 @@ canonical: "https://crazyaigc.com/academy/foundation/a1-basics/ai-agent-basics"
 ## References
 
 - CRAZYAIGC 服务页：[企业 AI 培训](/ai-training)
+- CRAZYAIGC 服务页：[企业 AI 服务流程](/services)
+- CRAZYAIGC 服务页：[企业 AI 定制落地](/enterprise-services)
 - CRAZYAIGC 服务页：[AI 落地实施](/ai-implementation)
 - CRAZYAIGC 服务页：[AI 智能体搭建](/ai-agent-development)
 - CRAZYAIGC 服务页：[AI 工作流自动化](/ai-workflow-automation)
 - CRAZYAIGC 服务页：[企业 AI 知识库](/enterprise-knowledge-base)
 - CRAZYAIGC 行业页：[行业 AI 场景](/industries)
 - CRAZYAIGC Blog：[企业 AI 工作流自动化怎么做](/blog/insights/2026-06-19-ai-workflow-automation-repetitive-work)
+- CRAZYAIGC Blog：[企业是否适合做 AI 智能体](/blog/insights/2026-06-18-ai-agent-for-enterprise)
 - [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
 - [Microsoft: Agent architecture guidance](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/ai-agent-design-patterns)

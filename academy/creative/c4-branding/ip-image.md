@@ -2,7 +2,7 @@
 title: "品牌 IP 形象设计教程：用 AI 从定位到角色一致性完整落地"
 description: "从品牌定位、角色设定、风格板到多场景一致性，系统讲解如何用 AI 设计可商用、可延展的品牌 IP 形象，并说明版权与人工审核要点。"
 date: "2026-03-17"
-lastUpdated: "2026-08-29"
+lastUpdated: "2026-08-30"
 category: "AI 学院"
 tags: ["academy", "learning", "ai-visual", "branding", "ip"]
 order: 1
@@ -253,4 +253,5 @@ AI 辅助：
 - [企业 AI 视频制作](/ai-video)：把角色设定延展到广告分镜、短视频和多渠道内容。
 - [超级像素 AI 视觉创作](/standard-products/super-pixel)：了解视觉课程、画布工具与持续创作支持。
 - [AI 视觉课程公开 Deck](/deck-assets/ai-visual-course-5days/index.html)：查看从创意到视觉内容生产的课程结构。
+- [企业 AI 培训计划](/ai-training)：把品牌 IP 练习嵌入市场、设计和内容团队的真实岗位任务。
 - [近期活动回顾](/events)：查看企业培训与 AI 视觉实战活动。

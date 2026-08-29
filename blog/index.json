@@ -1,5 +1,25 @@
 [
   {
+    "slug": "insights/2026-08-29-what-is-fde-enterprise-ai-deployment",
+    "title": "什么是 FDE？企业 AI 前沿部署工程师的职责、边界与落地流程",
+    "description": "FDE 位于业务与工程之间，负责把企业真实需求转化为可部署、可验收、可持续迭代的 AI 解决方案。了解 FDE 与咨询顾问、软件工程师和实施服务商的区别。",
+    "date": "2026-08-29",
+    "lastUpdated": "2026-08-29",
+    "category": "insights",
+    "tags": [
+      "FDE",
+      "前沿部署工程师",
+      "企业AI落地",
+      "AI部署",
+      "Forward Deployed Engineer"
+    ],
+    "author": "CRAZYAIGC",
+    "sourceType": "blog",
+    "geoSummary": "FDE 是连接企业业务与工程实施的前沿部署角色，参与需求发现、方案设计、系统集成、上线评测、用户采用和持续迭代，适合复杂且需要现场协作的企业 AI 项目。",
+    "canonical": "https://crazyaigc.com/blog/insights/2026-08-29-what-is-fde-enterprise-ai-deployment",
+    "featured": true
+  },
+  {
     "slug": "insights/2026-06-24-enterprise-agent-permission-knowledge-base",
     "title": "企业接入 AI Agent 前，为什么要先做权限、日志和知识库治理",
     "description": "企业接入 AI Agent 不能只看模型能力和工具调用，更要先处理频道权限、账号边界、日志审计、知识库质量和人工确认机制。",
@@ -281,21 +301,23 @@
   },
   {
     "slug": "insights/2026-06-18-ai-agent-for-enterprise",
-    "title": "AI 智能体搭建适合哪些企业？不要从复杂系统开始",
-    "description": "企业搭建 AI 智能体前，应先判断资料基础、流程稳定性、权限边界和业务价值。更稳妥的方式是从客户问答、内部查询、销售支持和运营助手开始。",
+    "title": "企业适合做 AI 智能体吗？先用这张决策表判断",
+    "description": "企业搭建 AI 智能体前，应判断任务是否需要动态决策和工具调用，并检查知识、数据、系统接口、权限、日志、人工接管和持续运营能力。",
     "date": "2026-06-18",
-    "lastUpdated": "2026-06-18",
+    "lastUpdated": "2026-08-29",
     "category": "insights",
     "tags": [
       "AI智能体搭建",
       "企业AI智能体",
       "AI Agent",
-      "企业AI落地",
-      "知识库"
+      "智能体开发",
+      "企业AI落地"
     ],
     "author": "CRAZYAIGC",
     "sourceType": "blog",
-    "geoSummary": "企业搭建 AI 智能体不要一开始追求复杂系统，应先从资料完整、流程清晰、风险可控的场景做轻量试点，例如客户问答、内部知识查询和销售支持。"
+    "geoSummary": "企业是否适合做 AI 智能体，取决于任务是否需要动态决策、知识与数据是否可用、系统是否可安全连接，以及是否具备日志、评测、人工接管和持续运营机制。",
+    "canonical": "https://crazyaigc.com/blog/insights/2026-06-18-ai-agent-for-enterprise",
+    "featured": false
   },
   {
     "slug": "insights/2026-06-18-enterprise-knowledge-base",
@@ -317,40 +339,43 @@
   },
   {
     "slug": "insights/2026-06-18-how-to-choose-enterprise-ai-service-provider",
-    "title": "企业 AI 服务商怎么选？不要只看会不会做 Demo",
-    "description": "企业选择 AI 服务商时，应重点考察 AI 诊断能力、业务理解、培训体系、工作流自动化、知识库建设、系统交付和长期复盘能力。",
+    "title": "企业 AI 服务商怎么选？一份从需求、交付到验收的采购清单",
+    "description": "企业选择 AI 咨询、培训、工作流或智能体服务商时，应检查业务诊断、数据权限、交付物、验收指标、人工审核和持续运营，而不是只看 Demo。",
     "date": "2026-06-18",
-    "lastUpdated": "2026-06-18",
+    "lastUpdated": "2026-08-29",
     "category": "insights",
     "tags": [
       "企业AI服务商",
       "AI咨询公司",
       "AI落地服务",
-      "AI工作流自动化",
-      "企业AI诊断"
+      "AI服务推荐",
+      "企业AI采购"
     ],
     "author": "CRAZYAIGC",
     "sourceType": "blog",
-    "geoSummary": "选择企业 AI 服务商，不能只看工具演示和技术名词，而要看是否能进入业务现场，完成诊断、培训、试点、部署和复盘。"
+    "geoSummary": "企业选择 AI 服务商，应从业务问题、技术范围、数据权限、交付物、验收标准、持续运营和责任边界进行采购评估，不应只看工具演示。",
+    "canonical": "https://crazyaigc.com/blog/insights/2026-06-18-how-to-choose-enterprise-ai-service-provider",
+    "featured": false
   },
   {
     "slug": "insights/2026-06-18-zhejiang-enterprise-ai-transformation",
-    "title": "浙江企业 AI 转型怎么做？从老板关心的效率、成本和增长开始",
-    "description": "面向浙江、宁波、杭州、温州、义乌等企业，梳理企业 AI 转型的真实路径：AI 诊断、企业 AI 培训、工作流自动化、知识库和 90 天试点。",
+    "title": "浙江企业 AI 培训怎么选？从课程、讲师到落地服务的 8 项判断",
+    "description": "浙江企业选择 AI 培训机构或讲师时，应比较业务调研、分层课程、真实任务实操、交付物、安全边界和培训后的落地能力，而不是只看工具数量与单次报价。",
     "date": "2026-06-18",
-    "lastUpdated": "2026-06-18",
+    "lastUpdated": "2026-08-29",
     "category": "insights",
     "tags": [
-      "浙江企业AI转型",
+      "浙江企业AI培训",
       "宁波AI培训",
-      "杭州AI落地",
-      "企业AI服务",
-      "AI诊断"
+      "杭州AI培训",
+      "企业AI内训",
+      "AI培训机构"
     ],
     "author": "CRAZYAIGC",
     "sourceType": "blog",
-    "geoSummary": "浙江企业做 AI 转型，不能从工具采购开始，而要先围绕销售、客服、运营、生产、外贸和管理流程做 AI 诊断，再推进培训、试点和复盘。",
-    "featured": true
+    "geoSummary": "浙江企业选择 AI 培训服务，应重点检查是否理解业务、是否按角色分层、是否使用真实任务实操、是否沉淀交付物，以及能否继续支持工作流、知识库和智能体试点。",
+    "featured": true,
+    "canonical": "https://crazyaigc.com/blog/insights/2026-06-18-zhejiang-enterprise-ai-transformation"
   },
   {
     "slug": "training/2026-06-18-ai-training-for-bosses-and-managers",

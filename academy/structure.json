@@ -67,7 +67,7 @@
           {
             "path": "foundation/a1-basics/ai-agent-basics",
             "title": "AI Agent 入门：什么时候需要智能体，什么时候不需要",
-            "lastUpdated": "2026-07-18"
+            "lastUpdated": "2026-08-30"
           }
         ]
       },
@@ -351,7 +351,8 @@
           },
           {
             "title": "品牌 IP 形象设计教程：用 AI 从定位到角色一致性完整落地",
-            "path": "creative/c4-branding/ip-image"
+            "path": "creative/c4-branding/ip-image",
+            "lastUpdated": "2026-08-30"
           },
           {
             "title": "视觉包装：餐饮/快消品牌年轻化、国际化视觉升级",
@@ -552,7 +553,7 @@
           {
             "title": "Codex 企业工作流：从需求到代码、测试和部署验证",
             "path": "programming/p3-development/codex-enterprise-workflow",
-            "lastUpdated": "2026-07-18"
+            "lastUpdated": "2026-08-30"
           },
           {
             "title": "Codex 入门教程：企业如何用 AI 编程做内部工具",

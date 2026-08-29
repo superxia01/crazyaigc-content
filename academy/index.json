@@ -89,7 +89,8 @@
   },
   {
     "path": "creative/c4-branding/ip-image",
-    "title": "品牌 IP 形象设计教程：用 AI 从定位到角色一致性完整落地"
+    "title": "品牌 IP 形象设计教程：用 AI 从定位到角色一致性完整落地",
+    "lastUpdated": "2026-08-30"
   },
   {
     "path": "creative/c4-branding/visual-packaging",
@@ -142,7 +143,7 @@
   {
     "path": "foundation/a1-basics/capability-boundaries",
     "title": "AI 能力边界洞察：理解 AI 模型的能力边界，识别可落地场景与暂时无法实现的盲区",
-    "lastUpdated": "2026-07-18"
+    "lastUpdated": "2026-08-30"
   },
   {
     "path": "foundation/a1-basics/compliance-copyright",
@@ -483,7 +484,7 @@
   {
     "path": "programming/p3-development/codex-enterprise-workflow",
     "title": "Codex 企业工作流：从需求到代码、测试和部署验证",
-    "lastUpdated": "2026-07-18"
+    "lastUpdated": "2026-08-30"
   },
   {
     "path": "programming/p3-development/codex-internal-tools",
