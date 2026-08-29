@@ -2,7 +2,7 @@
 title: "AI 工作流自动化适合从哪些重复劳动开始"
 description: "企业做 AI 工作流自动化，建议先从文档写作、客户回复、资料整理、表格报表、内容生产和内部问答等重复劳动开始，而不是一上来做复杂系统。"
 date: "2026-06-19"
-lastUpdated: "2026-07-18"
+lastUpdated: "2026-08-29"
 category: "insights"
 tags: ["AI工作流自动化", "重复劳动自动化", "企业AI落地", "AI办公自动化", "业务流程自动化"]
 author: "CRAZYAIGC"
@@ -129,6 +129,8 @@ RPA 更擅长固定规则和系统操作，AI 更擅长文本理解、生成、�
 
 - [AI 工作流自动化](/ai-workflow-automation)
 - [企业 AI 落地实施](/ai-implementation)
+- [Codex 企业工作流](/academy/programming/p3-development/codex-enterprise-workflow)
+- [企业知识助手公开案例解读](/case-studies/public-analysis/morgan-stanley-ai-knowledge-assistant)
 - [行业 AI 场景](/industries)
 - [专业服务机构 AI](/industries/professional-services-ai)
 

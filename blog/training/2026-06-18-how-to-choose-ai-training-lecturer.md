@@ -2,7 +2,7 @@
 title: "企业 AI 培训怎么选讲师？看工具课还是看落地经验"
 description: "企业选择 AI 培训讲师时，不能只看工具演示能力，更要看是否理解业务流程、岗位任务、AI 诊断、工作流自动化和培训后的落地陪跑。"
 date: "2026-06-18"
-lastUpdated: "2026-07-18"
+lastUpdated: "2026-08-29"
 category: "training"
 tags: ["企业AI培训", "AI培训讲师", "AI落地", "企业AI诊断", "AI工作流"]
 author: "CRAZYAIGC"
@@ -124,6 +124,7 @@ canonical: "https://crazyaigc.com/blog/training/2026-06-18-how-to-choose-ai-trai
 - [区域 AI 落地服务](/locations)
 - [顾问团队](/team)
 - [活动回顾](/events)
+- [BBVA 企业 AI 组织采用公开案例](/case-studies/public-analysis/bbva-enterprise-ai-adoption)
 
 ## 资料来源
 

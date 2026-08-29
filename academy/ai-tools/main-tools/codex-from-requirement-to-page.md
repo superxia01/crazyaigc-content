@@ -2,7 +2,7 @@
 title: "Codex 实战：从需求到可运行页面"
 description: "面向企业团队的 Codex 实战教程，演示如何把一个页面需求拆成上下文、约束、实现、验证和交付说明。"
 date: "2026-06-19"
-lastUpdated: "2026-06-19"
+lastUpdated: "2026-08-29"
 category: "AI 工具使用"
 tags: ["Codex", "AI编程", "Next.js", "企业AI", "内部工具"]
 order: 3
@@ -16,6 +16,8 @@ canonical: "https://crazyaigc.com/academy/ai-tools/main-tools/codex-from-require
 用 Codex 做页面开发，关键不是让它“随便设计一下”，而是把需求拆成目标、上下文、约束和验收标准。企业团队可以把 Codex 当成一个能读代码、改文件、跑命令、解释结果的执行助手，但仍要保留人工审核和上线验证。
 
 这篇教程用“新增一个企业服务介绍页面”的场景，说明从需求到可运行页面的基本流程。
+
+如果你的任务包含多个页面、测试和生产部署，可以在完成本教程后继续阅读[Codex 企业工作流](/academy/programming/p3-development/codex-enterprise-workflow)。两篇教程共用同一原则：让 AI 执行明确且可验证的步骤，让人负责业务判断、权限与上线验收。
 
 ## 第一步：把需求写成可执行任务
 
@@ -77,7 +79,7 @@ Codex 通常会检查：
 给 Codex 的约束可以这样写：
 
 ```text
-文案必须面向企业客户访客，不要出现“根据 SEO 长尾词写”“内部提示词”“页面要埋关键词”等后台语言。
+文案需要直接说明客户遇到的问题、产品或服务带来的价值，以及访客可以采取的下一步行动。
 可以自然覆盖企业 AI 培训、AI 落地实施、AI 工作流自动化、企业知识库等关键词。
 ```
 
@@ -145,3 +147,6 @@ Codex 完成后，企业团队至少要看三件事：
 - OpenAI Codex Manual: Quickstart
 - OpenAI Codex Manual: Best practices
 - CRAZYAIGC 企业 AI 编程与内部工具项目经验
+- [Codex 企业工作流](/academy/programming/p3-development/codex-enterprise-workflow)
+- [AI 应用开发](/ai-development)
+- [企业 AI 工作流自动化](/ai-workflow-automation)

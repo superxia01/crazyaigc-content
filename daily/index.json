@@ -390,10 +390,10 @@
   },
   {
     "slug": "2026/06/18-kickart-3-video-agent",
-    "title": "Kickart 3.0 升级对话式广告视频，营销素材生产继续 Agent 化",
-    "description": "火山引擎 Kickart 3.0 升级为对话式视频生成模式，支持爆款拆解、商品视频重构和合规预审核。",
+    "title": "KickArt 3 是什么？对话式 AI 广告视频的能力、场景与边界",
+    "description": "了解火山引擎 KickArt 对话式 AI 广告视频的主要能力、适用场景与人工审核边界，以及品牌和营销团队如何把它接入素材生产工作流。",
     "date": "2026-06-18",
-    "lastUpdated": "2026-06-18",
+    "lastUpdated": "2026-08-29",
     "category": "daily",
     "tags": [
       "AI视频",
@@ -426,10 +426,10 @@
   },
   {
     "slug": "2026/06/18-molmomotion-language-guided-3d-motion",
-    "title": "MolmoMotion 开源，机器人和 3D 任务开始听懂自然语言动作指令",
-    "description": "Allen AI 发布 MolmoMotion，可根据视频、3D 点标记和自然语言指令预测 3D 运动轨迹，为机器人、仿真和具身智能提供新基础能力。",
+    "title": "MolmoMotion 是什么？文本控制 3D 动作的能力与企业应用",
+    "description": "了解 Ai2 MolmoMotion 如何根据视频、3D 点和自然语言预测动作轨迹，以及它在机器人、仿真、培训和视频生成中的潜在应用与限制。",
     "date": "2026-06-18",
-    "lastUpdated": "2026-06-18",
+    "lastUpdated": "2026-08-29",
     "category": "daily",
     "tags": [
       "MolmoMotion",

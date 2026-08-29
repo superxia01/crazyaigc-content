@@ -2,7 +2,7 @@
 title: "Codex 企业工作流：从需求到代码、测试和部署验证"
 description: "介绍企业团队如何用 Codex 处理真实开发任务：需求澄清、代码修改、测试、审查、部署和复盘。"
 date: "2026-06-18"
-lastUpdated: "2026-07-18"
+lastUpdated: "2026-08-29"
 category: "AI 编程开发"
 tags: ["Codex", "AI编程", "企业开发", "代码审查", "自动化测试"]
 order: 4
@@ -14,6 +14,8 @@ canonical: "https://crazyaigc.com/academy/programming/p3-development/codex-enter
 # Codex 企业工作流：从需求到代码、测试和部署验证
 
 企业团队使用 Codex，最重要的不是“让 AI 写多少代码”，而是把它纳入一套可控的开发工作流。
+
+如果团队希望用 Codex 处理企业网站、内部工具和自动化任务，应先定义需求边界、验收标准与权限，再让 Codex 读取代码、实施修改、运行测试并输出可审查的变更。对于需要连接多个系统的重复任务，可以先参考[企业 AI 工作流自动化](/ai-workflow-automation)梳理输入、处理、人工审核和衡量指标。
 
 ## 学习目标与前置条件
 
@@ -43,7 +45,7 @@ canonical: "https://crazyaigc.com/academy/programming/p3-development/codex-enter
 ```text
 请优化 /services 页面文案。目标是让访客理解我们的企业 AI 服务流程。
 不要改导航和 Footer，不要新增依赖。
-完成后请列出修改文件，并检查页面没有内部提示词泄露。
+完成后请列出修改文件，并检查页面可见文案都适合对外发布。
 ```
 
 企业开发任务要尽量明确：
@@ -193,7 +195,7 @@ Skill 可以把操作步骤、检查清单、脚本和边界写清楚，让 Code
 让 Codex 输出 diff 摘要，并重点检查：
 
 - 是否修改了任务范围之外的共享代码。
-- 是否出现内部域名、密钥、客户信息或内部提示词。
+- 是否出现未公开域名、密钥、客户信息或工作备注。
 - 是否引入重复页面、错误 canonical 或不可访问链接。
 - 是否对高风险命令、外部写入和部署保留人工审批。
 
@@ -230,3 +232,5 @@ Codex 的价值不是替代整个研发团队，而是把大量重复、明确�
 - [OpenAI: Codex for almost everything](https://openai.com/index/codex-for-almost-everything/)：Codex 在开发生命周期和长任务中的应用。
 - [CRAZYAIGC AI 应用开发](/ai-development)：从原型、测试到部署的企业交付路径。
 - [企业 AI 工作流自动化怎么做](/blog/insights/2026-06-19-ai-workflow-automation-repetitive-work)：从业务任务、人工审核和衡量指标理解自动化试点。
+- [Codex 实战：从需求到可运行页面](/academy/ai-tools/main-tools/codex-from-requirement-to-page)：用一个页面任务熟悉读取、实现和验证流程。
+- [企业 AI 落地案例](/case-studies)：查看知识助手、组织采用与人工审核的公开案例解读。
